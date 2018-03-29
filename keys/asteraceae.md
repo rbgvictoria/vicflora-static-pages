@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multi-access key to the Asteraceae of Victoria
-permalink: /help/
+permalink: /keys/asteraceae
 ---
 
 ## Introduction

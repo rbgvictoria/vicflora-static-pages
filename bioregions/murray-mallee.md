@@ -3,8 +3,7 @@ layout: page
 title: Murray Mallee
 permalink: /bioregions/murray-mallee
 ---
-
-# Murray Mallee
+{% include warning.html text="The Murray Mallee as recognised by Conn (1993) includes the <b>Murray Mallee</b>, <b>Murray Scroll Belt</b> and <b>Robinvale Plains</b> regions in the current system of bioregions of Victoria." %}
 
 The physiographic province described by the general term ‘Mallee’ refers to those semi-arid plains of south-eastern Australia characterized by extensive sand-ridges on which eucalypts with a particular growth habit (see ‘The mallee habit’ below) form the dominant cover (Bowler & Magee 1978). This Mallee province is here divided into two regions, namely the Murray Mallee and the Lowan Mallee Regions.
 

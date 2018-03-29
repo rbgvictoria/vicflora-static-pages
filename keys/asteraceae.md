@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multi-access key to the Asteraceae of Victoria
-permalink: /keys/asteraceae
+permalink: /help/
 ---
 
 ## Introduction
@@ -14,18 +14,19 @@ The multi-access key to the Asteraceae of Victoria is a key to Victoria’s larg
 
 3.  allowing the rapid identification of taxa with distinct features rarely encountered in the family
 
-To use the key the user selects describe how to use the program..
-
-Best Option.
+To use the key the user selects a feature from the features in the top left Features Available panel and clicks on the state present in their specimen to be identified. Once selected this feature and state will show as being selected in the Features Chosen panel directly below the Features Available panel. To undo a selection, click on the box next to the state chosen in the Features Chosen panel to erase the tick in the box. Once a feature state is chosen all the taxa that do not possess the chosen feature state are discarded in the bottom right Entities Discarded panel and those that do possess the chosen are retained in the top right Entities Remaining panel. The user continues to choose further character states present in their specimen until identification is acheived. To restart the key when finished select the restart key icon represented by the two green arrows in the top left corner of the screen.
 
 ## General helpful hints
 
-For the most effective use of this key the user is encouraged to read the help guides for each character and state before submitting an answer for that character and state. This will reduce the chance of misinterpretation of the character and state. Some Information and definitions required for interpreting a state may be given under character so users are encouraged to read the help guide for the characters before the states. When taking measurements or assessing which state a character exists in for the taxon being identified a typical plant and plant part should be used. Typical is here interpreted as a close representation of the average plant in terms of size and stature in a population and a plant part that represents the average condition for that character (e.g. average length, the most frequently observed density of hairs etc.). The plant chosen should also be reproductively mature because states and measurements refer to plants at maturity. For some of the characters it is possible for some taxa to possess more than one character state for the character. In such cases either correct character state can be chosen. When taking measurements be precise e.g. if a cypsela is 4.9 mm long enter 4.9 mm long rather than rounding up to 5 mm and entering that.
+For the most effective use of this key the user is encouraged to read the help guides for each character and state before submitting an answer for that character and state. Help guides and photographs can be found by clicking on the page icons beside characters and states. This help will reduce the chance of misinterpretation of the character and state. Some information and definitions required for interpreting a state may be given under character so users are encouraged to read the help guide for the characters before the states. When taking measurements or assessing which state a character exists in for the taxon being identified a typical plant and plant part should be used. Typical is here interpreted as a close representation of the average plant in terms of size and stature in a population and a plant part that represents the average condition for that character (e.g. average length, the most frequently observed density of hairs etc.). The plant chosen should also be reproductively mature because states and measurements refer to plants at maturity. For some of the characters it is possible for some taxa to possess more than one character state for the character. In such cases either correct character state can be chosen. When taking measurements be precise e.g. if a cypsela is 4.9 mm long enter 4.9 mm long rather than rounding up to 5 mm and entering that.
+
+To help identify the specimen to be identified as quickly as possible the best option can be used. This option highlights which charaters should be used first to discard the maximum number of taxa among the remaining taxa. To use the best option select the best icon given as a blue wand at the top of the screen. For some similar taxa such as closely related species or subspecies within a species it may become time consuming to keep using the key until one taxon remains. In such instances the user can use the dichotomous keys and profiles to help to distinguish between similar species.
 
 ## Occurrence
+
 ### Natural Region
 
-Victoria has been divided into 16 natural regions. For this character the user determines which natural region the plant that is to be identified was found in to enter for this character. Whether a taxon is regarded as occurring in a particular natural region or not is dependent on whether the taxon has been previously documented as occurring in that natural region or not. There is a remote possible that a taxon occurs in a natural region but has not yet been documented in that natural region. In such a case the key will not recognise that taxon as occurring in that natural region which will result in a misidentification for the user. This issue may be particularly relevant to newly introduced species which may be still expanding their range through Victoria or for taxa that are undercollected for herbarium. Due to these issues we suggest that this character be one of the first characters investigated as a potential reason for misidentification.
+Victoria has been divided into 16 natural regions. For this character the user determines which natural region the plant that is to be identified was found in to enter for this character. Whether a taxon is regarded as occurring in a particular natural region or not is dependent on whether the taxon has been previously documented as occurring in that natural region or not. There is a remote possible that a taxon occurs in a natural region but has not yet been documented in that natural region. In such a case the key will not recognise that taxon as occurring in that natural region which will result in a misidentification for the user. This issue may be particularly relevant to newly introduced species which may be still expanding their range through Victoria or for taxa that are undercollected for herbaria. Due to these issues it is suggested that this character be one of the first characters investigated as a potential reason for misidentification.
 
 ## Plant
 
@@ -53,7 +54,7 @@ This state refers to plants that have woody single stems and woody branches but 
 
 #### Vine
 
-This state refers to plants that trails or climbs over other vegetation which helps to support the vine and includes two introduced species in the Asteraceae of Victoria: *Delairea odorata* and *Senecio angulatus*, both in the southern parts of the state.
+This state refers to plants that trail or climb over other vegetation which helps to support the vine and includes two introduced species in the Asteraceae of Victoria: *Delairea odorata* and *Senecio angulatus*. Both species have been recorded in the southern parts of the state.
 
 ### Duration
 
@@ -81,9 +82,9 @@ This state refers to plants that don’t bear female and male reproductive organ
 
 ## Stem or scape
 
-This group of four characters refer to the main axis (stem) of the plant or the stalk (peduncle) leading to the flower head (capitulum) if the plant is a rosetted herb without a main stem.
+This group of four characters refer to the main axis (stem) of the plant and includes the stalk (peduncle) leading to the flower head (capitulum) if the plant is a rosetted herb without a distinct aerial main stem.
 
-### Form
+### Stem form
 
 This character describes the growth form of the main axis of the plant and includes two states.
 
@@ -95,43 +96,43 @@ This state refers to stems that creep above or under the ground and produce root
 
 This state refers to stems that are generally erect but if they are positioned near the ground or are creeping do not produce roots at any point along the creeping stem.
 
-### Indument
+### Stem indument
 
-This characters refers to the presence of hairs on the stem or scape and includes three states.
+This character refers to the presence of hairs on the stem or scape and includes three states.
 
-#### Glabrous
+#### Stem glabrous
 
 This state refers to plants that have stems or scapes completely devoid of any type of hairs.
 
-#### With eglandular hairs
+#### Stem with eglandular hairs
 
 This state refers to plants that have stems or scapes that have hairs that do not end in a gland (i.e. glandular hair) which usually appear as a spherical structure or drastic broadening near the hair tip. Several taxa bear both eglandular hairs and glandular hairs. For such taxa either character state may be chosen.
 
-#### With glandular hairs
+#### Stem with glandular hairs
 
 This state refers to plants that have stems or scapes that have hairs that end in a gland. Glands usually appear as a spherical structure or drastic broadening near the hair tip. Some taxa may have glandular surfaces but these glands lack a stalk (are sessile on the surface) and are here not considered hairs. Several taxa bear both glandular and eglandular hairs. For such taxa either character state may be chosen.
 
-### Spines
+### Stem spines
 
 This characters refers to the presence of hard rigid spines on a stem. Such spines are generally sharp and painful to touch. This character includes two states.
 
-#### Present
+#### Stem spines present
 
 The stem bears hard rigid spines that are generally sharp and painful to touch.
 
-#### Absent
+#### Stem spines absent
 
 The stem does not bear hard rigid spines that are generally sharp and painful to touch.
 
-### Wings
+### Stem wings
 
 This character refers to the presence of leaf-like extensions that follow along a stem and includes two states.
 
-#### Absent
+#### Stem wings absent
 
 The stem does not bear leaf-like extensions.
 
-#### Present
+#### Stem wings present
 
 The stem bears leaf-like extensions.
 
@@ -139,17 +140,17 @@ The stem bears leaf-like extensions.
 
 This group of nine characters refers to the main photosynthetic and green organ (leaf) of the plant.
 
-### Length
+### Leaf Length
 
 This character requires the user to measure and enter the distance in millimetres (mm) from the point of attachment to a stem to the apex or end of the leaf. For taxa that have a distinct leaf stalk or petiole this measurement includes the petiole as well as the expanded blade or lamina section. Avoid selecting leaves close to inflorescences and flower heads (capitula) or smaller leaves sprouting from the junction (axil) of larger leaves and the stem as these leaves are often not a good representative of the typical size and shape of the leaves of the plant.
 
-### Width
+### Leaf width
 
-This character requires the user to measure and enter the distance in millimetres (mm) acroos the widest part of the leaf. Avoid selecting leaves close to inflorescences and flower heads (capitula) or smaller leaves sprouting from the junction (axil) of larger leaves and the stem as these leaves are often not a good representative of the typical size and shape of the leaves of the plant.
+This character requires the user to measure and enter the distance in millimetres (mm) across the widest part of the leaf. Avoid selecting leaves close to inflorescences and flower heads (capitula) or smaller leaves sprouting from the junction (axil) of larger leaves and the stem as these leaves are often not a good representative of the typical size and shape of the leaves of the plant.
 
 ### Outline shape
 
-This character refers to shape of the leaf for simple leaves or the shape that would be created if a smooth line was drawn to connect the tips of all the divisions of a divided leaf. Avoid selecting leaves close to inflorescences and flower heads (capitula) or smaller leaves sprouting from the junction (axil) of larger leaves and the stem as these leaves are often not a good representative of the typical size and shape of the leaves of the plant. It comprises three states.
+This character refers to shape of the leaf for simple leaves or the shape that would be created if a smooth line was drawn to connect the tips of all the divisions of a divided leaf. Avoid selecting leaves close to inflorescences and flower heads (capitula) or smaller leaves sprouting from the junction (axil) of larger leaves and the stem as these leaves are often not a good representative of the typical size and shape of the leaves of the plant. This character comprises three states.
 
 #### Widest near the base
 
@@ -157,7 +158,7 @@ This state refers to leaves where the widest point lies between where the leaf i
 
 #### Widest near middle or similar width near base and apex
 
-This state refers to leaves where the widest point lies half way between a the attachment point of a leaf to the stem and the tip (apex) of the leaf or leaves that have a similar width near the base, middle and apex. It includes the shapes linear, oblong, elliptic, rhombic and orbicular. Avoid selecting leaves close to inflorescences and flower heads (capitula) or smaller leaves sprouting from the junction (axil) of larger leaves and the stem as these leaves are often not a good representative of the typical size and shape of the leaves of the plant.
+This state refers to leaves where the widest point lies around half way between a the attachment point of a leaf to the stem and the tip (apex) of the leaf or leaves that have a similar width near the base, middle and apex. It includes the shapes linear, oblong, elliptic, rhombic and orbicular. Avoid selecting leaves close to inflorescences and flower heads (capitula) or smaller leaves sprouting from the junction (axil) of larger leaves and the stem as these leaves are often not a good representative of the typical size and shape of the leaves of the plant.
 
 #### Widest near apex
 
@@ -165,7 +166,7 @@ This state refers to leaves where the widest point lies between the tip (apex) o
 
 ### Dissection
 
-This character refers to whether the degree that the leaf is dissected into segments or lobes and includes five states. Avoid selecting leaves close to inflorescences and flower heads (capitula) or smaller leaves sprouting from the junction (axil) of larger leaves and the stem as these leaves are often not a good representative of the typical size and shape of the leaves of the plant.
+This character refers to the degree that the leaf is dissected into segments or lobes and includes five states. Avoid selecting leaves close to inflorescences and flower heads (capitula) or smaller leaves sprouting from the junction (axil) of larger leaves and the stem as these leaves are often not a good representative of the typical size and shape of the leaves of the plant.
 
 #### Entire
 
@@ -219,51 +220,51 @@ This state refers to leaves that are not pressed against the stem so that all su
 
 This character refers to the density of hairs on the upper side of the leaf and includes four states.
 
-#### Glabrous or glabrescent
+#### Adaxial surface glabrous or glabrescent
 
 This state refers to if the upper side of the leaf is completely devoid of any type of hairs or if the leaf has the occasional hair.
 
-#### Moderately hairy all over lamina
+#### Adaxial surface moderately hairy all over lamina
 
 This state refers to if the upper side of the leaf possesses hairs all over the flattened part of the leaf (lamina) so that they are instantly spotted at least with some visual aid such as a hand lens or microscope.
 
-#### Densely hairy obscuring leaf surface of influencing the leaf colour
+#### Adaxial surface densely hairy obscuring leaf surface of influencing the leaf colour
 
 This state refers to if the upper side of the leaf possesses a dense covering of hairs such that they can usually be discerned without visual aids such as a hand lens or microscope and either obscures the leaf surface or at least makes the leaf appear the colour of the hair rather than the green of the leaf surface.
 
-#### Hairy on margin only
+#### Adaxial surface hairy on margin only
 
-This state refers to if the leaf has hairs confined completely to he edge or margin.
+This state refers to if the leaf has hairs confined completely to the edge (margin).
 
 ### Abaxial indument
 
 This character refers to the density of hairs on the lower side of the leaf and includes four states.
 
-#### Glabrous or glabrescent
+#### Abaxial surface glabrous or glabrescent
 
 This state refers to if the lower side of the leaf is completely devoid of any type of hairs or if the leaf has the occasional hair.
 
-#### Moderately hairy all over lamina
+#### Abaxial surface moderately hairy all over lamina
 
 This state refers to if the lower side of the leaf possesses hairs all over the flattened part of the leaf (lamina) so that they are instantly spotted at least with some visual aid such as a hand lens or microscope.
 
-#### Densely hairy obscuring leaf surface or influencing the leaf colour
+#### Abaxial surface densely hairy obscuring leaf surface or influencing the leaf colour
 
 This state refers to if the lower side of the leaf possesses a dense covering of hairs such that they can usually be discerned without visual aids such as a hand lens or microscope and either obscures the leaf surface or at least makes the leaf appear the colour of the hair rather than the green of the leaf surface.
 
-#### Hairy on margin only
+#### Abaxial surface hairy on margin only
 
-This state refers to if the leaf has hairs confined completely the edge or margin.
+This state refers to if the leaf has hairs confined completely to the edge (margin).
 
-### Spines
+### Leaf spines
 
 This characters refers to the presence of hard rigid spines on the leaves. Such spines are generally sharp and painful to touch. This character includes two states.
 
-#### Present
+#### Leaf spines present
 
 The leaves bear hard rigid spines that are generally sharp and painful to touch.
 
-#### Absent
+#### Leaf spines absent
 
 The leaves do not bear hard rigid spines that are generally sharp and painful to touch.
 
@@ -271,7 +272,7 @@ The leaves do not bear hard rigid spines that are generally sharp and painful to
 
 In Asteraceae individual flowers (florets) are generally small (usually less than 5 mm diameter and 40 mm long) and are almost always tightly clustered together into a flower head called a capitulum (pl. capitula). The capitulum is what masquerades as the “daisy flower”, particularly in daisies that have florets on the edge of the capitulum that are morphologically distinct from the central florets and superficially resemble “petals”. This group of ten characters relate to the capitulum.
 
-### Arrangement
+### Capitulum arrangement
 
 This character refers to whether the capitula are borne singly or together and includes two states.
 
@@ -281,7 +282,7 @@ This state refers to if capitula are always borne singly without other capitula 
 
 #### In a conflorescence
 
-This state refers to if capitula are borne together so that a cluster of capitula occurs on the one stem. In some taxa the capitula are separated by leaves but multiple capitula appear clustered nearby on the same main stem. Such taxa are included within this state.
+This state refers to if capitula are borne together so that a cluster of capitula occur on the one stem. In some taxa the capitula are separated by a few leaves but multiple capitula appear clustered nearby on the same main stem. Such taxa are included within this state.
 
 ### Type
 
@@ -313,7 +314,7 @@ This character refers to whether the capitulum is stalked or is attached directl
 
 #### Sessile
 
-This state refers to capitula that are attached directly to the stem without a clearly discernible stalk.
+This state refers to capitula that are attached directly to the stem without a clearly discernible stalk (peduncle).
 
 #### Pedunculate
 
@@ -333,7 +334,7 @@ This state refers to capitula that are entirely composed of flowers (florets) th
 
 #### Both inner tubular or disc florets and outer ray florets
 
-This state refers to capitula that have tubular or disc florets (see only tubular or disc florets present) in the center of the capitulum and to the outside of these florets are florets that have all the petals forming a strap (ligule) to one side of the floret with 3 or 4 teeth at the end of the ligule (ray floret). These ray florets on the outside of the capitulum.
+This state refers to capitula that have tubular or disc florets (see only tubular or disc florets present) in the center of the capitulum and to the outside of these florets are florets that have all the petals forming a strap (ligule) to one side of the floret with 3 or 4 teeth at the end of the ligule (ray floret).
 
 ### Sexuality
 
@@ -361,15 +362,15 @@ In this state the florets towards the outer edge of the capitulum lack stamens b
 
 #### Inner disc florets functionally male and outer disc florets bisexual
 
-In this state the florets towards the outer edge of the capitulum are bisexual (both fertile stamens and ovaries will be present) and the florets towards the inside of the capitulum appear bisexual but have infertile ovaries which abort and do not produce fertile seed. When in flower before fruiting it may be difficult to determine whether the female reproductive organs are fertile. Consequently, taxa that technically match this state are also scored as having all florets bisexual.
+In this state the florets towards the outer edge of the capitulum are bisexual (both fertile stamens and ovaries will be present) and the florets towards the inside of the capitulum appear bisexual but have infertile ovaries which abort and do not produce fertile seed. When in flower before fruiting it may be difficult to determine whether the female reproductive organs are fertile. Consequently, to help avoid misidentification taxa that technically match this state are also scored as having all florets bisexual.
 
 #### Inner disc florets functionally male and outer disc florets female
 
-In this state the florets towards the outer edge of the capitulum are female without stamens and the florets towards the inside of the capitulum appear bisexual but have infertile ovaries which abort and do not produce fertile seed. When in flower before fruiting it may be difficult to determine whether the female reproductive organs are fertile. Consequently, taxa that technically match this state are also scored as having inner disc florets bisexual and outer disc florets female.
+In this state the florets towards the outer edge of the capitulum are female without stamens and the florets towards the inside of the capitulum appear bisexual but have infertile ovaries which abort and do not produce fertile seed. When in flower before fruiting it may be difficult to determine whether the female reproductive organs are fertile. Consequently, to help avoid misidentification taxa that technically match this state are also scored as having inner disc florets bisexual and outer disc florets female.
 
 #### Inner disc florets functionally female and outer disc florets female
 
-In this state the florets towards the outer edge of the capitulum are female without stamens and the florets towards the inside of the capitulum appear bisexual but have infertile stamens that do not produce fertile pollen. Consequently, taxa that technically match this state are also scored as having inner disc florets bisexual and outer disc florets female. This state occurs only in the alpine *Ewartia nubigena* and the introduced *Petasites pyrenaicus*.
+In this state the florets towards the outer edge of the capitulum are female without stamens and the florets towards the inside of the capitulum appear bisexual but have infertile stamens that do not produce fertile pollen. Determining that the inner florets are functionally female can be difficult, so to help avoid misidentification taxa that technically match this state are also scored as having inner disc florets bisexual and outer disc florets female. This state occurs only in the alpine *Ewartia nubigena* and the introduced *Petasites pyrenaicus*.
 
 #### Inner disc florets bisexual outer disc florets neuter
 
@@ -397,7 +398,7 @@ In this state the disc florets have fertile stamens, styles and ovaries and the 
 
 #### Disc florets functionally male and ray florets female
 
-In this state the disc florets have fertile stamens and appear bisexual, but the ovaries are not fertile and so these florets do not produce fertile seed. The ray florets that radiate on the outer edge of the capitulum lack stamens. It can be difficult to appreciate that the disc florets are functionally male before fruiting and consequently taxa that technically match this state are also scored as disc florets bisexual ray florets female.
+In this state the disc florets have fertile stamens and appear bisexual, but the ovaries are not fertile and so these florets do not produce fertile seed. The ray florets that radiate on the outer edge of the capitulum lack stamens and produce fertile seed. It can be difficult to appreciate that the disc florets are functionally male before fruiting and consequently taxa that technically match this state are also scored as disc florets bisexual ray florets female.
 
 #### Inner disc florets functionally male, outer disc florets bisexual and ray florets neuter
 
@@ -407,15 +408,9 @@ In this state the disc florets towards the inside of the disc fertile stamens an
 
 This character requires the user to determine which of the five number intervals (states) provided matches the total number of florets (regardless of floret type) that is present in the capitulum.
 
-#### 1
+#### 1 floret  
 
 In this state a single floret will be present surrounded by involucral bracts.
-
-#### 2–5
-
-#### 6–10
-
-#### 11–20
 
 #### Greater than 20
 
@@ -429,19 +424,19 @@ This character requires the user to enter the number of ray florets that radiate
 
 This character refers to scales (flattened structures that are often membranous) or bristles (stiff hair-like structures that are often coloured) borne on the receptacle surface near the base of florets. It does not include thin, sparse or cobwebby hairs that may be present between florets on the receptacle.
 
-#### Present
+#### Receptacle scales or bristles present
 
 In this state either scales or bristles are present on the receptacle surface near the base of florets.
 
-#### Absent
+#### Receptacle scales or bristles absent
 
-In this state either scales or bristles are absent on the receptacle surface near the base of florets.
+In this state both scales and bristles are absent on the receptacle surface near the base of florets.
 
 ## Involucral Bract
 
 This set of five characters refers to the structures that form on the outside of the capitulum and protect it when in bud. They do not contain reproductive organs (which the florets of a capitulum usually have) and are not petaloid (i.e. a combination of soft, flexible and white or coloured).
 
-### Form
+### Involucral bract form
 
 This character refers to the texture and appearance of the involucral bracts and contains three states.
 
@@ -451,13 +446,13 @@ This state refers to involucral bracts that envelop at least some of the florets
 
 #### Papery, hyaline or membranous
 
-This state refers to involucral bracts that are stiff, paper-like and white or coloured in some part of the bract or bracts that a thin, clear and more or less transparent.
+This state refers to involucral bracts that are stiff, paper-like and white or coloured in some part of the bract or bracts that are thin, clear and more or less transparent.
 
 #### Herbaceous
 
 This state refers to involucral bracts that are mostly green. Usually such bracts are leaf-like but in many cases they may be hardened and stiff particularly near the base or tip of the bract or along its midrib. Bracts in this state may have membranous or papery margins but in such cases will have a prominent green section around the midrib.
 
-### Indument
+### Involucral bract indument
 
 This character refers to the presence of hairs on any of the surfaces of the involucral bracts and includes three states.
 
@@ -486,18 +481,17 @@ In this state there is a single row of bracts but occasionally a few very small 
 In this state there are often clearly several overlapping rows of bracts and these are often of a different size or shape. Occasionally two very distinct but obvious sets of bracts are present and often the bracts appear spirally arranged.
 
 #### Number for capitula with a single series of bracts
-
 This character requires the user to enter the number of involucral bracts in capitula that contain only a single prominent series of bracts. This character is not applicable to taxa with more than one series of involucral bracts.
 
-### Spines
+### Involucral bract spines
 
 This character refers to the presence of stiff sharp spines typically at the apex of involucral bracts that are usually painful to touch and contains two states.
 
-#### Present
+#### Involucral bract spines present
 
 In this state stiff sharp spines that are usually painful to touch are present somewhere on at least some of the involucral bracts.
 
-#### Absent
+#### Involucral bract spines absent
 
 In this state stiff sharp spines that are usually painful to touch are absent from all of the involucral bracts.
 
@@ -516,12 +510,6 @@ This character refers to the colour of the upper surface of the ray or ligulate 
 #### White or cream
 
 This state includes pure white and all cream-like colours that are not clearly yellow. Faint colours (e.g. blue, yellow, red) are included in other states.
-
-#### Yellow or orange
-
-#### Pink, red or brown
-
-#### Mauve, violet, lilac, purple, blue or black
 
 ## Anther
 
@@ -543,15 +531,15 @@ In this state the base of the anther does not extend below where the filament is
 
 The pappus are the structures (often hairs, bristles or scales) that are situated at the apex of the ovary and at the base of the corolla (petals) and are equivalent to the sepals. There are four pappus characters provided.
 
-### Length
+### Pappus length
 
 This character requires the user to enter in a length of one of the pappus from base to apex in mm.
 
-### Form
+### Pappus form
 
 This character refers to the appearance of the pappus and contains eight states.
 
-#### Absent
+#### Pappus absent
 
 In this state there is a complete absence of any structure in the position where pappus would be expected.
 
@@ -565,7 +553,7 @@ In this state the pappus has a flattened form.
 
 #### Scales with an awn extension
 
-In this state the pappus has a flattened form with a bristle-like extension at its apex.
+In this state the pappus has a flattened form with a stiff bristle-like extension at its apex.
 
 #### Smooth, scabrid or barbellate bristle or hair
 
@@ -583,7 +571,7 @@ In this state the pappus has a main axis that is thin and cylindrical which bear
 
 In this state the pappus is stiff and has a main axis that bears hairs or barbs.
 
-### Uniformity
+### Pappus uniformity
 
 This character refers to whether all the florets of a capitulum have a similar form of pappus or not and contains two states.
 
@@ -595,7 +583,7 @@ This state refers to taxa which have all their florets with a similar form and a
 
 This state refers to taxa which have some of their florets bearing pappus that is of a different form or size to the pappus of other florets (e.g. some taxa will have pappus on some florets but other florets will have no pappus).
 
-### Number
+### Pappus number
 
 This character requires the user to determine which of the five number intervals (states) provided matches the total number of pappus that is present on a single floret.
 
@@ -607,10 +595,6 @@ This state is applicable to taxa with no pappus.
 
 This state is applicable to taxa where a single hair or bristle is present or for taxa where the pappus is in the form of a rim or raised area in the position where pappus would be expected.
 
-#### 2–4
-
-#### 5–8
-
 #### Greater than 8
 
 Most taxa will match this interval.
@@ -619,7 +603,7 @@ Most taxa will match this interval.
 
 This group of six characters deals with features of the fruit (cypsela). Only mature cypsela that have finished flowering should be used for these characters.
 
-### Length
+### Cypsela length
 
 This character requires the user to measure and enter the length in millimetres (mm) of the cypsela, not including the pappus (see Pappus for definition). For taxa that have an distinct elongated section (beak) between the seed containing part of the cypsela and the pappus, this beak is included in the measurement. For taxa that have wings only measure the length of the seed containing part of the cypsela. For taxa where the cypselas are totally concealed within hardened prickly involucral bracts to form a burr, measure the entire burr.
 
@@ -647,7 +631,7 @@ This state includes cypsela that are distinctly elongated towards the apex.
 
 This state includes a single species, *Ceratogyne obionoides*, that is confined to the far north-west of Victoria and has distinctive T- or Y-shaped cypselas.
 
-### Uniformity
+### Cypsela uniformity
 
 This character refers to whether all the florets of a capitulum produce similar cypselas or not and includes two states.
 
@@ -659,42 +643,42 @@ This character refers to whether all the florets of a capitulum produce cypselas
 
 This character refers to whether all the florets of a capitulum produce cypselas of differing shape, size, colour and indumentum. Some cypselas may have a different appearance because they are sterile. Taxa that produce different appearing sterile cypselas are included in this state.
 
-### Indument
+### Cypsela indument
 
 This character refers to the presence of hairs (not including the pappus) on the surface of the cypsela and includes three states. Often the hairs are minute and will require the aid of a microscope to see.
 
-#### Glabrous or papillose
+#### Cypsela glabrous or papillose
 
-In this state the cypsela lacks hairs, the surface is only covered by glands or warts or the surface is composed of minute finger-like extensions.
+In this state the cypsela lacks hairs, the surface is only covered by glands or warts or the surface is composed of minute finger-like extensions (papillae).
 
-#### With eglandular hairs
+#### Cypsela with eglandular hairs
 
-In this state at least some part of the cypsela surface possesses hairs that end in a point (i.e. not tipped by a round gland). Some taxa may have both eglandular hairs and glandular hairs (i.e. hairs that are tipped by a round gland). Either state can be chosen for such taxa.
+In this state at least some part of the cypsela surface possesses hairs that end in a point (i.e. not tipped by a round gland). Some taxa may have both eglandular and glandular hairs (i.e. hairs that are tipped by a round gland). Either state can be chosen for such taxa.
 
-#### With glandular hairs
+#### Cypsela with glandular hairs
 
-In this state at least some part of the cypsela surface possesses hairs that are glandular (i.e. tipped by a round gland). Some taxa may have both glandular hairs and eglandular hairs (i.e. hairs that are not tipped by a round gland). Either state can be chosen for such taxa.
+In this state at least some part of the cypsela surface possesses hairs that are glandular (i.e. tipped by a round gland). Some taxa may have both glandular and eglandular hairs (i.e. hairs that are not tipped by a round gland). Either state can be chosen for such taxa.
 
-### Wings
+### Cypsela wings
 
 This character refers to the presence of thin wing-like extensions of the cypsela and contains two states.
 
-#### Present
+#### Cypsela wings present
 
 In this state the cypsela have one to many thin wing-like extensions.
 
-#### Absent
+#### Cypsela wings absent
 
 In this state the cypsela has no thin wing-like extensions. There may be raised ribs but these will not be thin and wing-like.
 
-### Ribs
+### Cypsela ribs
 
-This character refers to the presence of ridges which typically running longitudinally along the cypsela and contains two states.
+This character refers to the presence of ridges which typically run longitudinally along the cypsela and contains two states.
 
-#### Present
+#### Cypsela ribs present
 
 In this state the cypsela has ridges.
 
-#### Absent
+#### Cypsela ribs absent
 
 In this state the cypsela has no clear ridges.

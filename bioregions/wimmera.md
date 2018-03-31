@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-toc
 title: Wimmera
 permalink: /bioregions/wimmera
 ---

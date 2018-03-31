@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-toc
 title: East Gippsland
 permalink: /bioregions/east-gippsland
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-toc
 title: Otway Range
 permalink: /bioregions/otway-range
 ---

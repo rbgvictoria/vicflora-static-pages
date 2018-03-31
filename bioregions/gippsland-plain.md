@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-toc
 title: Gippsland Plain
 permalink: /bioregions/gippsland-plain
 ---

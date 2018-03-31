@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-toc
 title: Lowan Mallee
 permalink: /bioregions/lowan-mallee
 ---

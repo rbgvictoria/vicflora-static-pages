@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-toc
 title: Wilsons Promontory
 permalink: /bioregions/wilsons-promontory
 ---

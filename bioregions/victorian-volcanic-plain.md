@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-toc
 title: Victorian Volcanic Plain
 permalink: /bioregions/victorian-volcanic-plain
 ---

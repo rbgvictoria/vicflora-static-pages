@@ -1,0 +1,39 @@
+/*
+****************************************************/
+#toc {
+    margin-top: 15px;
+    list-style-type: none;
+
+    .affix {
+      top: 20px;
+    }
+
+    .affix-bottom {
+        position: absolute;
+    }
+
+    ul {
+        list-style-type: none;
+        padding-left: 30px;
+    }
+
+    .nav li>ul {
+        display: none;
+    }
+
+    .nav li.active>ul {
+        display: block;
+    }
+
+    .nav .active>a {
+      font-weight: bold;
+    }
+
+    .nav > li > a {
+        padding: 4px 25px;
+    }
+
+    .nav > li li>a {
+        padding: 1px 25px;
+    }
+}

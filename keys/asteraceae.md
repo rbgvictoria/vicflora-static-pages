@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-toc
 title: Multi-access key to the Asteraceae of Victoria
 permalink: /keys/asteraceae
 ---

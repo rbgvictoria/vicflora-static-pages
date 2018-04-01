@@ -150,7 +150,7 @@ permalink: /bioregions/
           </thead>
           <tbody>
             <tr>
-              <td colspan="1" rowspan="2"><a href="{{ '/flora/bioregions/riverina' | relative_url }}">Riverina</a></td>
+              <td colspan="1" rowspan="2"><a href="{{ '/flora/bioregions/riverina' | absolute_url }}">Riverina</a></td>
               <td colspan="1" rowspan="4">Riverina</td>
               <td colspan="2" rowspan="1">Victorian Riverina</td>
             </tr>
@@ -158,7 +158,7 @@ permalink: /bioregions/
               <td colspan="2" rowspan="1">Murray Fans</td>
             </tr>
             <tr>
-              <td colspan="1" rowspan="3"><a href="{{ '/bioregions/murray-mallee' | relative_url }}">Murray Mallee</a></td>
+              <td colspan="1" rowspan="3"><a href="{{ '/bioregions/murray-mallee' | absolute_url }}">Murray Mallee</a></td>
               <td colspan="2" rowspan="1">Robinvale Plains</td>
             </tr>
             <tr>
@@ -169,15 +169,15 @@ permalink: /bioregions/
               <td colspan="2" rowspan="1">Murray Mallee</td>
             </tr>
             <tr>
-              <td colspan="1"><a href="{{ '/bioregions/lowan-mallee' | relative_url }}">Lowan Mallee</a></td>
+              <td colspan="1"><a href="{{ '/bioregions/lowan-mallee' | absolute_url }}">Lowan Mallee</a></td>
               <td colspan="2" rowspan="1">Lowan Mallee</td>
             </tr>
             <tr>
-              <td colspan="1"><a href="{{ '/bioregions/wimmera' | relative_url }}">Wimmera</a></td>
+              <td colspan="1"><a href="{{ '/bioregions/wimmera' | absolute_url }}">Wimmera</a></td>
               <td colspan="2" rowspan="1">Wimmera</td>
             </tr>
             <tr>
-              <td colspan="1" rowspan="3"><a href="{{ '/bioregions/wannon' | relative_url}}">Wannon</a></td>
+              <td colspan="1" rowspan="3"><a href="{{ '/bioregions/wannon' | absolute_url}}">Wannon</a></td>
               <td colspan="1" rowspan="2">Narracoorte Coastal Plain</td>
               <td colspan="2" rowspan="1">Bridgewater</td>
             </tr>
@@ -189,11 +189,11 @@ permalink: /bioregions/
               <td colspan="2" rowspan="1">Dundas Tablelands</td>
             </tr>
             <tr>
-              <td colspan="1"><a href="{{ '/bioregions/grampians' | relative_url }}">Grampians</a></td>
+              <td colspan="1"><a href="{{ '/bioregions/grampians' | absolute_url }}">Grampians</a></td>
               <td colspan="2" rowspan="1">Greater Grampians</td>
             </tr>
             <tr>
-              <td colspan="1" rowspan="3"><a href="{{ '/bioregions/midlands' | relative_url }}">Midlands</a></td>
+              <td colspan="1" rowspan="3"><a href="{{ '/bioregions/midlands' | absolute_url }}">Midlands</a></td>
               <td colspan="2" rowspan="1">Goldfields</td>
             </tr>
             <tr>
@@ -204,12 +204,12 @@ permalink: /bioregions/
               <td colspan="2" rowspan="1">Northern Inland Slopes</td>
             </tr>
             <tr>
-              <td colspan="1"><a href="{{ '/bioregions/victorian-volcanic-plain' | relative_url }}">Victorian Volcanic Plain</a></td>
+              <td colspan="1"><a href="{{ '/bioregions/victorian-volcanic-plain' | absolute_url }}">Victorian Volcanic Plain</a></td>
               <td>Southern Volcanic Plain</td>
               <td colspan="2" rowspan="1">Victorian Volcanic Plain</td>
             </tr>
             <tr>
-              <td colspan="1" rowspan="2"><a href="{{ '/bioregions/otway-plain' | relative_url }}">Otway Plain</a></td>
+              <td colspan="1" rowspan="2"><a href="{{ '/bioregions/otway-plain' | absolute_url }}">Otway Plain</a></td>
               <td colspan="1" rowspan="3">South East Coastal Plain</td>
               <td colspan="2" rowspan="1">Warrnambool Plain</td>
             </tr>
@@ -217,27 +217,27 @@ permalink: /bioregions/
               <td colspan="2" rowspan="1">Otway Plain</td>
             </tr>
             <tr>
-              <td colspan="1"><a href="{{ '/bioregions/gippsland-plain' | relative_url }}">Gippsland Plain</a></td>
+              <td colspan="1"><a href="{{ '/bioregions/gippsland-plain' | absolute_url }}">Gippsland Plain</a></td>
               <td colspan="2" rowspan="1">Gippsland Plain</td>
             </tr>
             <tr>
-              <td colspan="1"><a href="{{ '/bioregions/otway-range' | relative_url }}">Otway Range</a></td>
+              <td colspan="1"><a href="{{ '/bioregions/otway-range' | absolute_url }}">Otway Range</a></td>
               <td colspan="1" rowspan="6">South Eastern Highlands</td>
               <td colspan="2" rowspan="1">Otway Ranges</td>
             </tr>
             <tr>
-              <td colspan="1"><a href="{{ '/bioregions/gippsland-highlands' | relative_url }}">Gippsland Highlands</a></td>
+              <td colspan="1"><a href="{{ '/bioregions/gippsland-highlands' | absolute_url }}">Gippsland Highlands</a></td>
               <td colspan="2" rowspan="1">Strzelecki Ranges</td>
             </tr>
             <tr>
-              <td colspan="1" rowspan="2"><a href="{{ '/bioregions/eastern-highlands' | relative_url }}">Eastern Highlands</a></td>
+              <td colspan="1" rowspan="2"><a href="{{ '/bioregions/eastern-highlands' | absolute_url }}">Eastern Highlands</a></td>
               <td colspan="2" rowspan="1">Highlands-Southern Fall</td>
             </tr>
             <tr>
               <td colspan="2" rowspan="1">Highlands-Northern Fall</td>
             </tr>
             <tr>
-              <td colspan="1" rowspan="4"><a href="{{ '/bioregions/east-gippsland' | relative_url }}">East Gippsland</a></td>
+              <td colspan="1" rowspan="4"><a href="{{ '/bioregions/east-gippsland' | absolute_url }}">East Gippsland</a></td>
               <td colspan="2" rowspan="1">Monaro Tablelands</td>
             </tr>
             <tr>
@@ -251,7 +251,7 @@ permalink: /bioregions/
               <td colspan="2" rowspan="1">East Gippsland Lowlands</td>
             </tr>
             <tr>
-              <td colspan="1" rowspan="2"><a href="{{ '/bioregions/snowfields' | relative_url }}">Snowfields</a></td>
+              <td colspan="1" rowspan="2"><a href="{{ '/bioregions/snowfields' | absolute_url }}">Snowfields</a></td>
               <td colspan="1" rowspan="2">Australian Alps</td>
               <td>Snowy Mountains</td>
               <td colspan="1" rowspan="2">Victorian Alps</td>
@@ -260,7 +260,7 @@ permalink: /bioregions/
               <td>Victorian Alps</td>
             </tr>
             <tr>
-              <td colspan="1" rowspan="2"><a href="{{ '/bioregions/wilsons-promontory' | relative_url }}">Wilsons Promontory</a></td>
+              <td colspan="1" rowspan="2"><a href="{{ '/bioregions/wilsons-promontory' | absolute_url }}">Wilsons Promontory</a></td>
               <td colspan="1" rowspan="2">Furneaux</td>
               <td>Wilsons Promontory</td>
               <td colspan="1" rowspan="2">Wilsons Promontory</td>

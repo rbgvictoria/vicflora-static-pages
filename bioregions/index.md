@@ -150,7 +150,7 @@ permalink: /bioregions/
           </thead>
           <tbody>
             <tr>
-              <td colspan="1" rowspan="2"><a href="{{ site.url }}{{ site.baseurl }}{{ '/flora/bioregions/riverina' | absolute_url }}">Riverina</a></td>
+              <td colspan="1" rowspan="2"><a href="{{ '/flora/bioregions/riverina' | absolute_url }}">Riverina</a></td>
               <td colspan="1" rowspan="4">Riverina</td>
               <td colspan="2" rowspan="1">Victorian Riverina</td>
             </tr>
@@ -158,7 +158,7 @@ permalink: /bioregions/
               <td colspan="2" rowspan="1">Murray Fans</td>
             </tr>
             <tr>
-              <td colspan="1" rowspan="3"><a href="{{ site.url }}{{ site.baseurl }}{{ '/bioregions/murray-mallee' | absolute_url }}">Murray Mallee</a></td>
+              <td colspan="1" rowspan="3"><a href="{{ '/bioregions/murray-mallee' | absolute_url }}">Murray Mallee</a></td>
               <td colspan="2" rowspan="1">Robinvale Plains</td>
             </tr>
             <tr>

@@ -4,7 +4,7 @@ title: Midlands
 permalink: /bioregions/midlands
 ---
 
-{% include warning.html text="The Midlands region in the Flora of Victoria system of natural regions (Conn 1993) comprises the <b>Goldfields</b>, <b>Central Victorian Uplands</b> and <i>Northern Inland Slopes</i> regions in the curren system of bioregions in Victoria." %}
+{% include warning.html text="The Midlands region in the Flora of Victoria system of natural regions (Conn 1993) comprises the <b>Goldfields</b>, <b>Central Victorian Uplands</b> and <i>Northern Inland Slopes</i> regions in the current system of bioregions in Victoria." %}
 
 ## Location
 

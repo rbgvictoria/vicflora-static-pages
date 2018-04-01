@@ -1,5 +1,5 @@
 ---
-layout: page-toc
+layout: bioregions
 title: Wimmera
 permalink: /bioregions/wimmera
 ---
@@ -48,5 +48,3 @@ This region has been extensively cleared for the cultivation of cereal crops, pa
 
 ## National Parks
 There are none in the region.
-
-**Source:** Conn, B.J. (1993) Natural regions and vegetation of Victoria, in: Foreman, D.B. and N.G. Walsh (eds), *Flora of Victoria* Volume 1, pp. 79–158, Inkata Press.

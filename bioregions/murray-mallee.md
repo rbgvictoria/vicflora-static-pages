@@ -1,5 +1,5 @@
 ---
-layout: page-toc
+layout: bioregions
 title: Murray Mallee
 permalink: /bioregions/murray-mallee
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page-toc
+layout: bioregions
 title: Otway Plain
 permalink: /bioregions/otway-plain
 ---

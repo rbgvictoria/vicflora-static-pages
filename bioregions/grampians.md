@@ -1,5 +1,5 @@
 ---
-layout: page-toc
+layout: bioregions
 title: Grampians
 permalink: /bioregions/grampians
 ---

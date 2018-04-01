@@ -1,5 +1,5 @@
 ---
-layout: page-toc
+layout: bioregions
 title: Eastern Highlands
 permalink: /bioregions/eastern-highlands
 ---

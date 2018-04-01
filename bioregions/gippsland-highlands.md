@@ -1,5 +1,5 @@
 ---
-layout: page-toc
+layout: bioregions
 title: Gippsland Highlands
 permalink: /bioregions/gippsland-highlands
 ---

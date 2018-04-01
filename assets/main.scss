@@ -3,3 +3,15 @@
 ---
 
 @import "vicflora-static";
+
+figure {
+  display: block;
+  margin-top: 12px;
+  margin-bottom: 12px;
+
+  figurecaption {
+    font-weight: bold;
+    display: block;
+    margin-top: 6px;
+  }
+}

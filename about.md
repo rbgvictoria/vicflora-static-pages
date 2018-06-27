@@ -1,7 +1,7 @@
 ---
 layout: page-toc
 title: About
-permalink: /about
+permalink: /about/
 ---
 
 VicFlora is a free-access, online compilation incorporating the [Flora of Victoria](http://www.rbg.vic.gov.au/science/publications#flora) (previously published in hard copy: Walsh & Entwisle 1994, 1996, 1999) and the Census of Vascular Plants of Victoria, of which eight editions were published by the National Herbarium of Victoria, Royal Botanic Gardens Melbourne between 1984 and 2007\. Some post-Flora accounts will be incomplete because of new discoveries and taxonomic revisions but VicFlora is a ‘living’ product and is being continually updated. It is intended that all members of the Victorian flora including those new discoveries and reinterpretations, both past and future, will be added as soon as practicable after being accepted by Herbarium botanists. We welcome information relating to new additions to the state’s flora, and errors or inconsistencies in the current version of VicFlora via email to [vicflora@rbg.vic.gov.au](mailto:vicflora@rbg.vic.gov.au?subject=User%20feedback%20on%20VicFlora).

@@ -6,7 +6,7 @@ permalink: /help
 
 This section briefly explains some of the ways to explore VicFlora and provides information on [copyright](#Copyright), [citation](#Citation) and how to provide [feedback](#Feedback).
 
-Definitions of [establishment means](http://vicflora.rbg.vic.gov.au/flora/about/#establishment-means), [threat status](http://vicflora.rbg.vic.gov.au/flora/about/#threat-status), [undescribed taxa](http://vicflora.rbg.vic.gov.au/flora/about/#undescribed-taxa), and notes on [classification](http://vicflora.rbg.vic.gov.au/flora/about/#classification) are provided under the About tab.
+Definitions of [establishment means](http://vicflora.rbg.vic.gov.au/static/about/#establishment-means), [threat status](http://vicflora.rbg.vic.gov.au/static/about/#threat-status), [undescribed taxa](http://vicflora.rbg.vic.gov.au/static/about/#undescribed-taxa), and notes on [classification](http://vicflora.rbg.vic.gov.au/static/about/#classification) are provided under the About tab.
 
 The VicFlora website enables the user to discover various types of information about plants occurring in Victoria. The following is a brief outline of ways to explore VicFlora.
 
@@ -54,18 +54,18 @@ Indicates whether the taxon is currently recognised as occurring in Victoria, or
 
 *   **Present:** taxa that are extant in Victoria
 *   **Endemic:** native taxa occurring only in Victoria, and which do not occur naturally outside the state
-*   **Extinct:** taxa believed to no longer occur in Victoria (See [definition](http://vicflora.rbg.vic.gov.au/flora/about/#threat-status) from ‘Threat status’ section)
+*   **Extinct:** taxa believed to no longer occur in Victoria (See [definition](http://vicflora.rbg.vic.gov.au/static/about/#threat-status) from ‘Threat status’ section)
 *   **Excluded:** taxa where names have been either misapplied, or based on erroneous reports. 
 
 ### Establishment means
 
 Establishment means refers to the ‘origin status’ of a taxon i.e. it indicates if the taxon is regarded as native or introduced in Victoria.
 
-*   **Native**: taxa that occur naturally and/or without human intervention in Victoria (See [Establishment means](http://vicflora.rbg.vic.gov.au/flora/about/#establishment-means-native) for more information on this topic)
+*   **Native**: taxa that occur naturally and/or without human intervention in Victoria (See [Establishment means](http://vicflora.rbg.vic.gov.au/static/about/#establishment-means-native) for more information on this topic)
 *   **Naturalised in part(s) of the State**: includes taxa that are naturally occurring in some areas of the state but have become naturalised, often after ‘escaping’ from cultivation, elsewhere in the state.
-*   **Naturalised**: those alien plants that sustain self-replacing populations in the wild without direct intervention by people OR in spite of human intervention, by recruitment from seeds or vegetative propagules or by vegetative spread (See [Establishment means](http://vicflora.rbg.vic.gov.au/flora/about/#establishment-means-naturalised) for more information on this topic)
-*   **Sparingly established**: taxa that are not fully naturalised (See [Establishment means](http://vicflora.rbg.vic.gov.au/flora/about/#establishment-means-adventive) for more information on this topic)
-*   **Uncertain**: It is uncertain whether the taxon is truly native in Victoria (See [Establishment means](http://vicflora.rbg.vic.gov.au/flora/about/#establishment-means-uncertain) for more information on this topic)
+*   **Naturalised**: those alien plants that sustain self-replacing populations in the wild without direct intervention by people OR in spite of human intervention, by recruitment from seeds or vegetative propagules or by vegetative spread (See [Establishment means](http://vicflora.rbg.vic.gov.au/static/about/#establishment-means-naturalised) for more information on this topic)
+*   **Sparingly established**: taxa that are not fully naturalised (See [Establishment means](http://vicflora.rbg.vic.gov.au/static/about/#establishment-means-adventive) for more information on this topic)
+*   **Uncertain**: It is uncertain whether the taxon is truly native in Victoria (See [Establishment means](http://vicflora.rbg.vic.gov.au/static/about/#establishment-means-uncertain) for more information on this topic)
 
 ## Copyright
 

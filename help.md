@@ -24,7 +24,7 @@ By using the Search function users can search for any taxon, or, by selecting fa
 
 ### Browse Classification
 
-By clicking on this tab a complete hierarchical classification of the Victorian flora may be seen. Clicking on any of the divisions within the classification will display the subordinate levels, right down to the terminal taxa within that division. The systematic arrangement of taxa follows that of the Australian Plant Census (see APC website) which in turn generally adopts the arrangement provided by the Angiosperm Phylogeny Group (see APG website). See the discussion of [classification](http://vicflora.rbg.vic.gov.au/admin/st/About#Classification) under the About tab for more information on this topic.
+By clicking on this tab a complete hierarchical classification of the Victorian flora may be seen. Clicking on any of the divisions within the classification will display the subordinate levels, right down to the terminal taxa within that division. The systematic arrangement of taxa follows that of the Australian Plant Census (see APC website) which in turn generally adopts the arrangement provided by the Angiosperm Phylogeny Group (see APG website). See the discussion of [classification](http://vicflora.rbg.vic.gov.au/static/about/#classification) under the About tab for more information on this topic.
 
 ### Keys
 

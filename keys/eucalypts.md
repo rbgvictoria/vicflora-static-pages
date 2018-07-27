@@ -1,7 +1,7 @@
 ---
 layout: page-toc
 title: Multi-access key to the Eucalypts of Victoria
-permalink: /keys/eucalyptus
+permalink: /keys/eucalypts
 ---
 
 ## Introduction

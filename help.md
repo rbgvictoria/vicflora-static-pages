@@ -67,16 +67,21 @@ Establishment means refers to the ‘origin status’ of a taxon i.e. it indicat
 *   **Sparingly established**: taxa that are not fully naturalised (See [Establishment means](http://vicflora.rbg.vic.gov.au/static/about/#establishment-means-adventive) for more information on this topic)
 *   **Uncertain**: It is uncertain whether the taxon is truly native in Victoria (See [Establishment means](http://vicflora.rbg.vic.gov.au/static/about/#establishment-means-uncertain) for more information on this topic)
 
-## Copyright
+## Copyright and reproduction
 
-All material provided in VicFlora is provided under a Creative Commons Attribution 4.0 international licence ([CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)), with the exception of:
+The text provided in VicFlora is copyright to the Royal Botanic Gardens Board, but is published here under a Creative Commons Attribution 4.0 international licence ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 
-*   any images, photographs or branding, including the Royal Botanic Gardens Victoria logo; and 
-*   content supplied by third parties.
+Similarly, many of the botanical images are copyright to the Royal Botanic Gardens Board, but are published here under a Creative Commons Attribution Non-commercial ShareAlike 4.0 international licence ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
-### **Third party copyright**
+### Third party copyright
 
-In many cases, third parties hold copyright to images presented in VicFlora.  Written permission from the copyright holder is required prior to copying or re-using this material.  Send enquiries to [library@rbg.vic.gov.au](mailto:library@rbg.vic.gov.au?subject=Copyright%20images%20re%20%20VicFlora).
+In some cases, third party photographers hold copyright to images presented in VicFlora, and they have elected to retain their reproduction rights.  Written permission from the copyright holder is required prior to copying or re-using this material.
+
+### Can I reproduce a botanical image?
+
+Check the licence! Click any thumbnail image to view the image at larger size, and the associated publication details. All images are accompanied by the name of the species, the artist or photographer, and the licence under which it has been published. The licence determines if you can reproduce the image for your purposes or not. Be sure to respect copyright notices, and follow the terms of the licences.
+
+For further information or for commercial enquiries, email [library@rbg.vic.gov.au](mailto:library@rbg.vic.gov.au).
 
 ## Citation
 

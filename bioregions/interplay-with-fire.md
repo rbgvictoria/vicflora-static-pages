@@ -1,26 +1,26 @@
----
+&ndash;-
 layout: page-toc
 title: Interplay of Victoria's flora with fire
 permalink: /interplay-with-fire
----
+&ndash;-
 
 {% include info.html text="<b>Source:</b> Gill, A.M. (1993) Interplay of Victoria's flora with fire, in: Foreman, D.B. and N.G. Walsh (eds), <i>Flora of Victoria</i> Volume 1, pp. 212–226, Inkata Press." %}
 
 ## Introduction
 
-Victorians have come to expect at least a day or two in summer when temperatures will soar to 40°C, humidities will drop to low percentages, and the wind will blow strongly from the north (see 'Climate in Victoria', this volume). Fires associated with these conditions can roar across the landscape, creating havoc and causing disaster. Victoria has seen a grisly parade of such events, each with its own infamous day of crisis---Black Thursday 1851, Red Tuesday 1898, Black Friday 1939, and Ash Wednesday 1983. Fires like these strike fear into the hardiest of souls and sear into the memories of those most intimately affected. Such fires have a long-lasting adverse affect on human communities, but this is not necessarily so for the native plant communities of Victoria. How the native flora responds to fires is a fascinating story which is being gradually revealed by research. This chapter tells some of what is presently known of that story.
+Victorians have come to expect at least a day or two in summer when temperatures will soar to 40°C, humidities will drop to low percentages, and the wind will blow strongly from the north (see 'Climate in Victoria', this volume). Fires associated with these conditions can roar across the landscape, creating havoc and causing disaster. Victoria has seen a grisly parade of such events, each with its own infamous day of crisis&ndash;-Black Thursday 1851, Red Tuesday 1898, Black Friday 1939, and Ash Wednesday 1983. Fires like these strike fear into the hardiest of souls and sear into the memories of those most intimately affected. Such fires have a long-lasting adverse affect on human communities, but this is not necessarily so for the native plant communities of Victoria. How the native flora responds to fires is a fascinating story which is being gradually revealed by research. This chapter tells some of what is presently known of that story.
 
-Huge fires are no respecters of persons, of boundaries or of the origin of the flora. They may cross from farm to plantation or from settlement to forest, consuming native and exotic plants, gardens and grasslands. Today, native vegetation is a shrinking resource in Victoria surrounded by a sea of introduced species (see Carr, this volume), some of which encroach upon the islands of native vegetation. The pattern of remnant vegetation is not a regular one, the islands varying widely in size and shape, with edges sometimes sharp, sometimes diffuse, and with vegetation corridors sometimes linking the islands. How these remnants are managed---including the role of fire---is an important conservation issue, but this chapter is concerned with the basic features of the interactions of native plants and vegetation with fires.
+Huge fires are no respecters of persons, of boundaries or of the origin of the flora. They may cross from farm to plantation or from settlement to forest, consuming native and exotic plants, gardens and grasslands. Today, native vegetation is a shrinking resource in Victoria surrounded by a sea of introduced species (see Carr, this volume), some of which encroach upon the islands of native vegetation. The pattern of remnant vegetation is not a regular one, the islands varying widely in size and shape, with edges sometimes sharp, sometimes diffuse, and with vegetation corridors sometimes linking the islands. How these remnants are managed&ndash;-including the role of fire&ndash;-is an important conservation issue, but this chapter is concerned with the basic features of the interactions of native plants and vegetation with fires.
 
 To understand the interactions between flora and fire, we need to perceive fires as phenomena dependent on the flora, and then to explore the responses of the vegetation to the fires. Below, following fire considerations and vegetation changes brought by fires, the biologies of selected genera and other groups of native species are discussed as they relate to fires.
 
 ## Flora provides the fuel
 
-The diversity of Victoria's flora has been revealed in other chapters (see Conn, this volume) but in a way unrelated to fires. Flora as fuels show a great diversity too. Chemical composition and the physical structure of plants of different species affects flammability. The chemical composition varies with a plant's stage of development, leaf or stem, death or life---as well as species. Mineral content, succulence and the type and abundance of volatile materials in living plants (like eucalypt oils and *Triodia* resins) may all affect flammability, but the quantity of litter shed to the ground by the plants and accumulated there can have an overwhelming effect on fire properties. How the dead litter or the standing dead plants (like annual grasses) support fire depends also on their spatial distribution within plant communities. In shrublands, particularly, live plants make an important contribution to fuel, so it is there that we might expect the chemical composition of the foliage (including moisture) to have maximum effect.
+The diversity of Victoria's flora has been revealed in other chapters (see Conn, this volume) but in a way unrelated to fires. Flora as fuels show a great diversity too. Chemical composition and the physical structure of plants of different species affects flammability. The chemical composition varies with a plant's stage of development, leaf or stem, death or life&ndash;-as well as species. Mineral content, succulence and the type and abundance of volatile materials in living plants (like eucalypt oils and *Triodia* resins) may all affect flammability, but the quantity of litter shed to the ground by the plants and accumulated there can have an overwhelming effect on fire properties. How the dead litter or the standing dead plants (like annual grasses) support fire depends also on their spatial distribution within plant communities. In shrublands, particularly, live plants make an important contribution to fuel, so it is there that we might expect the chemical composition of the foliage (including moisture) to have maximum effect.
 
 *Eucalyptus* is the most frequent dominant of native plant communities in Victoria. It is remarkable in its habit of shedding large quantities of twigs and other non-leafy material in comparison with the quantities of leaves. In forests of *Eucalyptus regnans* (Mountain Ash) the proportion of non-leaf material in litter fall is 40 per cent (Ashton 1975) of the total quantity of material falling per annum. Annual falls vary from about 8 t/ha (tonnes/hectare) in tall forests of *E. regnans* (Ashton 1975) to about 3 t/ha for forests of *E. macrorhyncha* (Red Stringybark) by analogy with similar forests in the Australian Capital Territory (Oswald & Hutchings 1975).
 
-Starting immediately after a severe fire, the litter accumulates on the forest floor according to the amount received and the amount decomposed. Eventually, an equilibrium is reached, which may be 22 t/ha for 80-metre tall *E. regnans* (Ashton 1975), an average of 19 t/ha for 30-metre tall *E. obliqua---E. radiata* forests (Gill 1964), and an average of 17 t/ha for, say, 15-metre tall *E. macrorhyncha* (Simmonds & Adams 1986). Typically, the litter would have more than 50 per cent woody material (Gill 1964; Ashton 1975). Fuel quantity is of great importance in relation to fire severity, and will be discussed below.
+Starting immediately after a severe fire, the litter accumulates on the forest floor according to the amount received and the amount decomposed. Eventually, an equilibrium is reached, which may be 22 t/ha for 80-metre tall *E. regnans* (Ashton 1975), an average of 19 t/ha for 30-metre tall *E. obliqua&ndash;-E. radiata* forests (Gill 1964), and an average of 17 t/ha for, say, 15-metre tall *E. macrorhyncha* (Simmonds & Adams 1986). Typically, the litter would have more than 50 per cent woody material (Gill 1964; Ashton 1975). Fuel quantity is of great importance in relation to fire severity, and will be discussed below.
 
 Grasslands contrast with eucalypt forests in their production and arrangement of fuel. Typically green in spring and browned-off in summer or autumn, grasses show a seasonal cycle of flammability. Usually, grasslands do not burn until at least 70 per cent of the standing crop has died. When they are completely dead, or 'cured', these finely divided, well-aerated fuels can support very fast-spreading fires. Fuel weights, however, are usually much less than in forests. In native grasslands, with no grazing and no fire, the quantity of material as litter and standing crop gradually rises in a way similar to that in eucalypt forests, but maximum values in native grasslands may be of the order of 5 t/ha (e.g. Groves 1974). Seasonal patterns of growth, death and decay vary across the state, of course, because of climatic and floral variation. Under subalpine conditions grasses may be summer-green and winter-brown if frost has a major influence; in the Mallee grasses may be greenest in winter and early spring; in southern and north-eastern Victoria summer-growing grasses like *Themeda triandra* (Kangaroo Grass) may stay green well into summer.
 
@@ -28,7 +28,7 @@ Shrubs in heathlands form another class of materials we are treating here as fue
 
 ## Weather and climate, fuels and fires
 
-Just which fuels are found where---like plant species and communities---depends on climate, soil type, topography, biota, fire history and disturbance. At a single site, climatic variation can affect the productivity and condition (such as senescence) of vegetation and, thereby, its potential as fuel. A long drought can cause desiccation without necessarily causing death, and this can increase the flammability of the community; in forests large dead fallen trunks of trees may dry out and contribute to the potential fuel load. Discussion below, however, focuses on how weather---immediate and seasonal---affects fires.
+Just which fuels are found where&ndash;-like plant species and communities&ndash;-depends on climate, soil type, topography, biota, fire history and disturbance. At a single site, climatic variation can affect the productivity and condition (such as senescence) of vegetation and, thereby, its potential as fuel. A long drought can cause desiccation without necessarily causing death, and this can increase the flammability of the community; in forests large dead fallen trunks of trees may dry out and contribute to the potential fuel load. Discussion below, however, focuses on how weather&ndash;-immediate and seasonal&ndash;-affects fires.
 
 Extreme fire conditions were described, at the beginning of this chapter (namely high temperature, low humidity, strong winds, summer period). These conditions are summarized as 'extreme' by the Weather Bureau, and broadcast by the media as a 'fire danger rating'. The fire danger rating represents a range of values of the fire danger index (FDI) which has a minimum of 0 (no fire danger) and a maximum of 100 (assumed to be the worst possible conditions). The FDI is directly related to probable fire severity: the higher the index the more severe the fire is likely to be. In the same way, the more fuel, the more severe the fire. Indeed, the fire intensity (a measure of the severity of the fire) is proportional to the product of the fire danger index and fuel weight (or fuel weight squared in the case of eucalypt forests) (Byram 1959).
 
@@ -40,7 +40,7 @@ It is important to realize that fires never consist completely of a uniform fron
 
 ## Effect of fire intensity on forest flora
 
-The interactions between forests and the fires they support have many facets. The forest example is used because it exhibits the extreme range of fire intensities and responses. Imagine a stringybark eucalypt forest with crowns 30 metres above ground, with tall shrubs and small trees from 5 to 10 metres above ground, and a litter layer of 20 t/ha. Under mild conditions ('low' fire danger for forests), a fire might travel slowly around on the forest floor at intensities below 250kW/m^2^ of fire front, with flames less than 1 metre tall; maybe only 50 per cent of the fuel would be consumed, and tall shrubs would show no leaf death. Under 'high' fire danger, flames 6 metres tall may be expected, which would consume all the litter fuel and burn some of the dead outer bark on the trees (say 3 t/ha), kill all the leaves and even the shoot systems of many shrubs, while, above, the crowns of the trees may remain green. Under 'very high' to 'extreme' conditions, fire intensities could reach 100 000 kW/m^2^, consuming all litter (20 t/ha), bark on trees (say, 5 t/ha), dead branches and even logs on the ground (say, 20 t/ha), and the canopies of the shrubs and trees (say, 10 t/ha). Thus, as the intensity increased, the amount of 'fuel' consumed increased and the amount of damage increased. Note, however, that these scenarios are for that part of the fire burning *with* the wind. How eucalypts resist fire is considered in more detail below, when the genus as a whole is considered. It is sufficient to point out here that once the vegetation has been burnt, a recovery process begins which can be interrupted by a further fire. How severe the second fire is, and the damage sustained therefrom, then depends on:
+The interactions between forests and the fires they support have many facets. The forest example is used because it exhibits the extreme range of fire intensities and responses. Imagine a stringybark eucalypt forest with crowns 30 metres above ground, with tall shrubs and small trees from 5 to 10 metres above ground, and a litter layer of 20 t/ha. Under mild conditions ('low' fire danger for forests), a fire might travel slowly around on the forest floor at intensities below 250kW/m<sup>2</sup> of fire front, with flames less than 1 metre tall; maybe only 50 per cent of the fuel would be consumed, and tall shrubs would show no leaf death. Under 'high' fire danger, flames 6 metres tall may be expected, which would consume all the litter fuel and burn some of the dead outer bark on the trees (say 3 t/ha), kill all the leaves and even the shoot systems of many shrubs, while, above, the crowns of the trees may remain green. Under 'very high' to 'extreme' conditions, fire intensities could reach 100 000 kW/m<sup>2</sup>, consuming all litter (20 t/ha), bark on trees (say, 5 t/ha), dead branches and even logs on the ground (say, 20 t/ha), and the canopies of the shrubs and trees (say, 10 t/ha). Thus, as the intensity increased, the amount of 'fuel' consumed increased and the amount of damage increased. Note, however, that these scenarios are for that part of the fire burning *with* the wind. How eucalypts resist fire is considered in more detail below, when the genus as a whole is considered. It is sufficient to point out here that once the vegetation has been burnt, a recovery process begins which can be interrupted by a further fire. How severe the second fire is, and the damage sustained therefrom, then depends on:
 
 -   how much (if any) fuel remained after the first fire
 -   how much fuel has accumulated since the first fire
@@ -48,13 +48,13 @@ The interactions between forests and the fires they support have many facets. Th
 -   the weather conditions at the time
 -   the wind direction relative to the direction of spread of the fire perimeter at that point.
 
-Sequences of fires are what usually determine the outcome of the flora--fire interaction. Four components of fires recognized as being important in this regard are fire intensity, fire frequency, season of fire occurrence, and type of fire. Any combination of these variables constitutes a particular 'fire regime' (Gill 1981a). While 'intensity' has already been described, and the terms fire frequency and season of fire occurrence are perhaps self-explanatory, 'fire type' may require elaboration. 'Fire type' is here considered only as two possible states: normal above-ground fire, and the less common condition where the fire is burning in peat or other deep humus layer in which plants are anchored, seeds are stored, rhizomes, bulbs and other storage organs occur, and where some plants (fungi especially) complete their entire life cycle. Crown fires (Figure 9.1) are seen as a manifestation of intensity rather than being a separate type. Peat fires have been recorded in Victoria at Anglesea in 1983 (Figure 9.2), on Mt Buffalo in 1972 (Dexter et al. 1977) and 1985 (van Rees & Walsh 1985), and historically in drained swamps such as those at Koo Wee Rup and at Terang. Peat fires can have a particularly great impact on the flora because death of all plants rooted in the medium may occur, and the regenerative material there may also be consumed.
+Sequences of fires are what usually determine the outcome of the flora&ndash;fire interaction. Four components of fires recognized as being important in this regard are fire intensity, fire frequency, season of fire occurrence, and type of fire. Any combination of these variables constitutes a particular 'fire regime' (Gill 1981a). While 'intensity' has already been described, and the terms fire frequency and season of fire occurrence are perhaps self-explanatory, 'fire type' may require elaboration. 'Fire type' is here considered only as two possible states: normal above-ground fire, and the less common condition where the fire is burning in peat or other deep humus layer in which plants are anchored, seeds are stored, rhizomes, bulbs and other storage organs occur, and where some plants (fungi especially) complete their entire life cycle. Crown fires (Figure 9.1) are seen as a manifestation of intensity rather than being a separate type. Peat fires have been recorded in Victoria at Anglesea in 1983 (Figure 9.2), on Mt Buffalo in 1972 (Dexter et al. 1977) and 1985 (van Rees & Walsh 1985), and historically in drained swamps such as those at Koo Wee Rup and at Terang. Peat fires can have a particularly great impact on the flora because death of all plants rooted in the medium may occur, and the regenerative material there may also be consumed.
 
 In the next two sections, the effects of fire regimes on forests of *Eucalyptus regnans* and on heathlands of *Banksia ornata,* respectively, are examined.
 
 ## Fire-induced dynamics of Mountain Ash forest
 
-The magnificent Mountain Ash forest is a forest born of fire. Fire is necessary for its adequate regeneration. *Eucalyptus regnans,* the principal species of the forest, has a life span of 300--400 years, and a potential height more than 100 metres (Ashton 1981a); without fire in this period no regeneration develops from the seed falling to the forest floor because of shade, disease, ant harvesting of seed and marsupial browsing (Ashton 1981b). Severe fire kills the trees, opens the subcanopy environment to seedling establishment, causes massive seed falls which satiate seed-harvesting ants, enriches the soil, and generates sufficient seedling growth (of various species) to easily satisfy vertebrate herbivores, allowing prolific seedling establishment of *E. regnans* to occur.
+The magnificent Mountain Ash forest is a forest born of fire. Fire is necessary for its adequate regeneration. *Eucalyptus regnans,* the principal species of the forest, has a life span of 300&ndash;400 years, and a potential height more than 100 metres (Ashton 1981a); without fire in this period no regeneration develops from the seed falling to the forest floor because of shade, disease, ant harvesting of seed and marsupial browsing (Ashton 1981b). Severe fire kills the trees, opens the subcanopy environment to seedling establishment, causes massive seed falls which satiate seed-harvesting ants, enriches the soil, and generates sufficient seedling growth (of various species) to easily satisfy vertebrate herbivores, allowing prolific seedling establishment of *E. regnans* to occur.
 
 {% include figure.html src="https://data.rbg.vic.gov.au/images/P/Library/143636?b=512" caption="Crown fire in <i>Eucalyptus baxteri</i> woodland, Little Desert National Park." %}
 
@@ -84,7 +84,7 @@ Heaths dominated by *B. ornata* are widespread in north-western Victoria, especi
 
 Soon after an intense fire in *B. ornata* heath, only the black woody skeletons of the shrubs may be visible. Within a year, however, there is an abundant flowering of the post-fire ephemeral *Argentipallium obtusifolium* (Figure 9.3); numerous seedlings of *B. ornata* are visible on each square metre of soil; there is abundant regrowth; and more species are present than at any other time in the development of the heathland.
 
-The dominant species, *B. ornata,* starting as seedlings, may reach 80 cm in height in the first ten years, but be only double this height at fifty years (Gill & McMahon 1986). In the South Australian studies biomass of tops at fifty years had reached 25--30 t/ha for *B. ornata* and 30--40 t/ha for the whole plant communities (Specht 1981), whereas *B. ornata* biomass in the Little Desert reached a peak at thirty-five to forty years, and declined thereafter.
+The dominant species, *B. ornata,* starting as seedlings, may reach 80 cm in height in the first ten years, but be only double this height at fifty years (Gill & McMahon 1986). In the South Australian studies biomass of tops at fifty years had reached 25&ndash;30 t/ha for *B. ornata* and 30&ndash;40 t/ha for the whole plant communities (Specht 1981), whereas *B. ornata* biomass in the Little Desert reached a peak at thirty-five to forty years, and declined thereafter.
 
 As the plant community grows and matures following fire, there is a constant attrition of species (Specht et al. 1958; Cheal et al. 1979; McMahon 1984a). In the Little Desert McMahon (1984a) recorded 42 species in the first season after fire, 34 species at fifteen years and only about 25 at thirty years. However, in an old remnant stand of about fifty years of age in which old *B. ornata* plants were senescing and in which many had died, some previously unseen species, such as *Callitris preissii* (Figure 9.4) and *Gyrostemon australasicus* (normally a fire ephemeral), had established (McMahon, pers. comm., 1988). While it may be possible that this old remnant occurs in slightly different habitat than the other stands carefully selected for their similarity apart from time since fire, it does appear that continued absence of fire may allow permanent floristic changes to take place (McMahon 1984a). Interestingly, with the breaking up of the dominant *Banksia* canopy a few *Banksia* seedlings had become established, an unparalleled event in younger established stands.
 
@@ -94,7 +94,7 @@ Immediately post-fire, the number of *Banksia* seedlings becoming established de
 
 {% include figure.html src="https://data.rbg.vic.gov.au/images/P/Library/143634?b=512" caption="Very old <i>Banksia ornata</i> heath (more than 60 years) near Little Desert National Park. Dead <i>B. ornata</i> in foreground. Stand is being invaded by <i>Callitris preissii</i>." %}
 
-It is perhaps obvious that if a fire-sensitive shrub such as *B. ornata* is burnt before seed production takes place, then the species is made locally extinct. In the same category are *Baeckea ericaea* and *Calytrix alpestris* (Cheal et al. 1979)---just like *Eucalyptus regnans* in the previous section. An interval of five years between fires will cause extinction of *Banksia ornata* (Figure 9.5) but will not affect most resprouting species (McMahon 1984b). If the fire interval is greater than twenty-five years, however, associated populations of *Allocasuarina pusilla* and *A. mackliniana* may be reduced (McMahon 1984b).
+It is perhaps obvious that if a fire-sensitive shrub such as *B. ornata* is burnt before seed production takes place, then the species is made locally extinct. In the same category are *Baeckea ericaea* and *Calytrix alpestris* (Cheal et al. 1979)&ndash;-just like *Eucalyptus regnans* in the previous section. An interval of five years between fires will cause extinction of *Banksia ornata* (Figure 9.5) but will not affect most resprouting species (McMahon 1984b). If the fire interval is greater than twenty-five years, however, associated populations of *Allocasuarina pusilla* and *A. mackliniana* may be reduced (McMahon 1984b).
 
 The variety of possibilities for the effects of fire regimes on these heaths is substantial, although with a strong dominance of one species this may have seemed unlikely. It is to be expected in other, sometimes more diverse, heathlands in Victoria that many conditions also created by various fire regimes are possible.
 
@@ -104,7 +104,7 @@ Some responses to fire of several plant groups prominent in the Victorian flora 
 
 ## Eucalypts
 
-### Bark--fire interactions
+### Bark&ndash;fire interactions
 
 Forest eucalypts react in various ways to fires, but there are common features. Thus, while leaves may be readily killed (as are the buds associated with them), the bark protects latent strands of meristematic tissues (Cremer 1972) which may be activated by leaf removal, or death, to form buds and from there epicormic shoots (Jacobs 1955) or fascicles (Noble, J. C. 1989). Epicormic shoots provide the familiar feathery appearance to branches and trunks shown by fire-resistant eucalypts after burning (Figure 9.6).
 
@@ -142,7 +142,7 @@ From a fire ecology point of view, future studies of eucalypts may be more conce
 
 ### Seed regeneration
 
-Regeneration from seed takes place only after fire in tall open-forests of *Eucalyptus regnans* (Ashton 1981a), and mostly or exclusively in open-forests of *E. obliqua* and *E. radiata* (Gill & Ashton 1971), mallee (Wellington 1989) and subalpine woodlands (Noble, I. R. 1980). In grassy woodlands, regeneration of eucalypts does take place in the absence of fire, but it could be aided in a non-natural fashion by the reduction of competition from grass grazed by domestic livestock. The common denominator in each of these cases is exposed mineral soil. Mallee communities may have much bare ground in the intervals between fires, but seedling recruitment does not occur then---apparently because of competition for water and the seed harvesting activity of ants (Wellington 1989; Wellington & Noble, I. R. 1984).
+Regeneration from seed takes place only after fire in tall open-forests of *Eucalyptus regnans* (Ashton 1981a), and mostly or exclusively in open-forests of *E. obliqua* and *E. radiata* (Gill & Ashton 1971), mallee (Wellington 1989) and subalpine woodlands (Noble, I. R. 1980). In grassy woodlands, regeneration of eucalypts does take place in the absence of fire, but it could be aided in a non-natural fashion by the reduction of competition from grass grazed by domestic livestock. The common denominator in each of these cases is exposed mineral soil. Mallee communities may have much bare ground in the intervals between fires, but seedling recruitment does not occur then&ndash;-apparently because of competition for water and the seed harvesting activity of ants (Wellington 1989; Wellington & Noble, I. R. 1984).
 
 Seeds of Victorian eucalypts are stored for various lengths of time in woody capsules in the canopies of the plants. Seed storage in the soil is impossible for long periods because the seeds have no suitable mechanism to allow it. Short-term dormancy may be induced by the high temperatures to which they may become exposed on the soil surface, but it is emphasized that this is short term (mostly less than one year). Most seed present in a stand of eucalypts is therefore found in the canopies of the plants.
 
@@ -171,7 +171,7 @@ Both species of *Hakea* studied by Lee (1984) are shrubs up to 5 metres tall; *H
 
 Whereas *H. ulicina* is fire-sensitive, *H. repullulans* is fire-resistant in being able to regenerate from lignotubers or lateral roots. Parallels to this are found in ecotypes of *H. sericea* and cohabiting populations of *H. dactyloides* (studied by the author and Dr P. Hocking), although, in the latter case, no root suckering has been found. Being fire-sensitive, *H. ulicina* depends on regeneration from seed after fire; Lee (1984) noted that seedlings of *H. repullulans* after fire were rare.
 
-An interesting discovery was that *H. repullulans* had plants that were functionally male, or functionally female, or bisexual---in about equal numbers at Anglesea, where observations were made over a four-year period (Lee 1984). Plants of *H. ulicina* were always bisexual. Both species were found to flower and set fruit two to three years after fire, although the modes of regeneration were so different. As the plants grew older, however, the rates of seed production in the Anglesea populations of *H. ulicina* were greater than those in *H. repullulans.*
+An interesting discovery was that *H. repullulans* had plants that were functionally male, or functionally female, or bisexual&ndash;-in about equal numbers at Anglesea, where observations were made over a four-year period (Lee 1984). Plants of *H. ulicina* were always bisexual. Both species were found to flower and set fruit two to three years after fire, although the modes of regeneration were so different. As the plants grew older, however, the rates of seed production in the Anglesea populations of *H. ulicina* were greater than those in *H. repullulans.*
 
 Seeds in these two species are stored on the plant until the shoots on which they occur die. The woody fruits in which the seeds are enclosed protect the seed during fire, but open when the shoots are killed by fire (Figure 9.7). Seeds in woody fruits are not necessarily completely protected from damage in the interfire period, however. For example, Lee (1984) noticed heavy infestations of fungi in seed of *Hakea repullulans* at Anglesea, and insect predation seems likely in some localities. Yellow-tailed black cockatoos (*Calyptorhynchus funereus*) were observed to feed on *H. ulicina* seed from intact follicles at Nadgee Nature Reserve in south-east New South Wales (A. M. Gill, pers. observ.).
 
@@ -219,7 +219,7 @@ Examples of fire ephemerals include the grasses *Stipa macalpinei* (Specht 1981)
 
 Three interesting biological questions concerning the behaviour of fire ephemerals are: What causes the seeds of these species to germinate after fire? How long do soil-stored seeds live? Why do these species persist for such a short period following fire?
 
-A specified range of fire-related heating conditions occurring is the usual explanation given to the first question---as in many hard-seeded legumes (Cavanagh 1980; Gill 1981b), but removal of allelopathic influences and the stimulatory presence of recently charred material could be involved (Keeley 1984). Nothing appears to be known regarding the second question. 'Competition' may be invoked to help answer the third question, but the whole study of fire ephemerals in Australia is in its infancy.
+A specified range of fire-related heating conditions occurring is the usual explanation given to the first question&ndash;-as in many hard-seeded legumes (Cavanagh 1980; Gill 1981b), but removal of allelopathic influences and the stimulatory presence of recently charred material could be involved (Keeley 1984). Nothing appears to be known regarding the second question. 'Competition' may be invoked to help answer the third question, but the whole study of fire ephemerals in Australia is in its infancy.
 
 ## Patterns
 
@@ -251,7 +251,7 @@ Many genera of the Proteaceae (*Banksia*, *Hakea*, *Xylomelum*, etc.), Myrtaceae
 >         - **9** (a) epicormic buds grow out  **VI**
 >         - **9** (b) large pre-fire apical buds continue growth  **VII**
 >
-> Categories I--VII are based on the methods of regeneration of a population of plants after a single fire has killed all the leaves of the reproductively mature plants. The key can apply to herbaceous perennials, but categories I and VI apply only to woody plants. Category VII includes some species of *Gahnia, Xanthorrhoea,* and *Livistona,* for example.                                                                                                                                                                                                                                                                                                                                                          
+> Categories I&ndash;VII are based on the methods of regeneration of a population of plants after a single fire has killed all the leaves of the reproductively mature plants. The key can apply to herbaceous perennials, but categories I and VI apply only to woody plants. Category VII includes some species of *Gahnia, Xanthorrhoea,* and *Livistona,* for example.              
 
 {% include figure.html src="https://data.rbg.vic.gov.au/images/P/Library/143642?b=512" caption="A recently burnt cone of the serotinous species <i>Banksia ornata</i>, showing the release of the two, winged seeds per follicle in the Little Desert National Park." %}
 
@@ -269,75 +269,75 @@ I thank Dr D. H. Ashton for introducing me to this subject in 1962, and for comm
 
 ## References
 
-Ashton, D. H. 1975, 'Studies of litter in *Eucalyptus regnans* forests', *Australian Journal of Botany,* vol. 23, pp. 413--33.
+Ashton, D. H. 1975, 'Studies of litter in *Eucalyptus regnans* forests', *Australian Journal of Botany,* vol. 23, pp. 413&ndash;33.
 
-&mdash;&mdash; 1976, 'The development of even-aged stands of *Eucalyptus regnans* F. Muell. in central Victoria', *Australian Journal of Botany,* vol. 24, pp. 397--414.
+&mdash;&mdash; 1976, 'The development of even-aged stands of *Eucalyptus regnans* F. Muell. in central Victoria', *Australian Journal of Botany,* vol. 24, pp. 397&ndash;414.
 
-&mdash;&mdash; 1979, 'Seed harvesting by ants in forests of *Eucalyptus regnans* F. Muell. in central Victoria', *Australian Journal of Ecology,* vol. 4, pp. 265--77.
+&mdash;&mdash; 1979, 'Seed harvesting by ants in forests of *Eucalyptus regnans* F. Muell. in central Victoria', *Australian Journal of Ecology,* vol. 4, pp. 265&ndash;77.
 
-&mdash;&mdash; 1981a, 'Fire in tall open-forests (wet sclerophyll forests)', in *Fire and the Australian Biota,* eds A.M. Gill, R. H. Groves & I. R. Noble, Australian Academy of Science, Canberra, pp. 339--66.
+&mdash;&mdash; 1981a, 'Fire in tall open-forests (wet sclerophyll forests)', in *Fire and the Australian Biota,* eds A.M. Gill, R. H. Groves & I. R. Noble, Australian Academy of Science, Canberra, pp. 339&ndash;66.
 
-&mdash;&mdash; 1981b, 'Tall open-forests', in *Australian Vegetation,* ed. R. H. Groves, Cambridge University Press, Melbourne, pp. 121--51.
+&mdash;&mdash; 1981b, 'Tall open-forests', in *Australian Vegetation,* ed. R. H. Groves, Cambridge University Press, Melbourne, pp. 121&ndash;51.
 
-&mdash;&mdash; 1985, 'Viability of seeds of *Eucalyptus obliqua* and *Leptospermum juniperinum* from capsules subject to a crown fire', *Australian Forestry,* vol. 49, pp. 28--35.
+&mdash;&mdash; 1985, 'Viability of seeds of *Eucalyptus obliqua* and *Leptospermum juniperinum* from capsules subject to a crown fire', *Australian Forestry,* vol. 49, pp. 28&ndash;35.
 
-Brack, C. L., Dawson, M. P. & Gill, A. M. 1985, 'Bark, leaf and sapwood dimensions in *Eucalyptus', Australian Forest Research,* vol. 15, pp. 1--7.
+Brack, C. L., Dawson, M. P. & Gill, A. M. 1985, 'Bark, leaf and sapwood dimensions in *Eucalyptus', Australian Forest Research,* vol. 15, pp. 1&ndash;7.
 
 Byram, G. M. 1959, 'Combustion of forest fuels', in *Forest Fire: Control and Use,* ed. K. P. Davis, McGraw-Hill, New York.
 
-Cavanagh, A. K. 1980, 'A review of some aspects of the germination of acacias', *Proceedings of the Royal Society of Victoria,* vol. 91, pp. 161--80.
+Cavanagh, A. K. 1980, 'A review of some aspects of the germination of acacias', *Proceedings of the Royal Society of Victoria,* vol. 91, pp. 161&ndash;80.
 
 Cheal, P. D., Day, J. C. & Meredith, C. W. 1979, *Fire in the National Parks of North-west Victoria*, National Parks Service, Victoria.
 
-Cremer, K. W. 1972, 'Morphology and development of primary and accessory buds of *Eucalyptus regnans*', *Australian Journal of Botany*, vol. 20, pp. 175--96.
+Cremer, K. W. 1972, 'Morphology and development of primary and accessory buds of *Eucalyptus regnans*', *Australian Journal of Botany*, vol. 20, pp. 175&ndash;96.
 
 Dexter, B. D., Heislers, A. & Sloan, T. 1977, *The Mount Buffalo Fire*, Forests Commission, Victoria, Bulletin 26.
 
-Gill, A. M. 1964, Soil--vegetation relationships near Kinglake West, Victoria, MSc thesis, University of Melbourne.
+Gill, A. M. 1964, Soil&ndash;vegetation relationships near Kinglake West, Victoria, MSc thesis, University of Melbourne.
 
-&mdash;&mdash; 1974, 'Towards an understanding of fire-scar formation: field observations and laboratory simulation', *Forest Science*, vol. 20, pp. 198--205.
+&mdash;&mdash; 1974, 'Towards an understanding of fire-scar formation: field observations and laboratory simulation', *Forest Science*, vol. 20, pp. 198&ndash;205.
 
-&mdash;&mdash; 1975, 'Fire and the Australian flora: a review', *Australian Forestry*, vol. 38, pp. 4--25.
+&mdash;&mdash; 1975, 'Fire and the Australian flora: a review', *Australian Forestry*, vol. 38, pp. 4&ndash;25.
 
-&mdash;&mdash; 1980, 'Restoration of bark thickness after fire and mechanical injury in a smooth-barked eucalypt', *Australian Forest Research*, vol. 10, pp. 311--19.
+&mdash;&mdash; 1980, 'Restoration of bark thickness after fire and mechanical injury in a smooth-barked eucalypt', *Australian Forest Research*, vol. 10, pp. 311&ndash;19.
 
-&mdash;&mdash; 1981a, 'Adaptive responses of Australian vascular plant species to fires', in *Fire and the Australian Biota*, eds A. M. Gill, R. H. Groves & I. R. Noble, Australian Academy of Science, Canberra, pp. 243--72.
+&mdash;&mdash; 1981a, 'Adaptive responses of Australian vascular plant species to fires', in *Fire and the Australian Biota*, eds A. M. Gill, R. H. Groves & I. R. Noble, Australian Academy of Science, Canberra, pp. 243&ndash;72.
 
-&mdash;&mdash; 1981b, 'Coping with fire', in *The Biology of Australian Plants*, eds J. S. Pate & A. J. McComb, University of Western Australia Press, Nedlands, pp. 65--87.
+&mdash;&mdash; 1981b, 'Coping with fire', in *The Biology of Australian Plants*, eds J. S. Pate & A. J. McComb, University of Western Australia Press, Nedlands, pp. 65&ndash;87.
 
-&mdash;&mdash; 1981c, 'Fire adaptive traits of vascular plants', in *Fire Regimes and Ecosystem Properties*, eds H. A. Mooney, J. M. Bonnicksen, N. L. Christensen, J. E. Lotan & W. A. Reiners, USDA Forest Service General Technical Report WO-26, Washington, DC, pp. 208--30.
+&mdash;&mdash; 1981c, 'Fire adaptive traits of vascular plants', in *Fire Regimes and Ecosystem Properties*, eds H. A. Mooney, J. M. Bonnicksen, N. L. Christensen, J. E. Lotan & W. A. Reiners, USDA Forest Service General Technical Report WO-26, Washington, DC, pp. 208&ndash;30.
 
-&mdash;&mdash; & Ashton, D. H. 1968, 'The role of bark type in the relative tolerance to fire of three central Victorian eucalypts', *Australian Journal of Botany*, vol. 16, pp. 491--8.
+&mdash;&mdash; & Ashton, D. H. 1968, 'The role of bark type in the relative tolerance to fire of three central Victorian eucalypts', *Australian Journal of Botany*, vol. 16, pp. 491&ndash;8.
 
-&mdash;&mdash; & &mdash;&mdash; 1971, 'The vegetation and environment of a multi-aged eucalypt forest near Kinglake West, Victoria, Australia', *Proceedings of the Royal Society of Victoria*, vol. 84, pp. 159--72.
+&mdash;&mdash; & &mdash;&mdash; 1971, 'The vegetation and environment of a multi-aged eucalypt forest near Kinglake West, Victoria, Australia', *Proceedings of the Royal Society of Victoria*, vol. 84, pp. 159&ndash;72.
 
-&mdash;&mdash;, Cheney, N. P., Walker, J. & Tunstall, B. R. 1986, 'Bark losses from two eucalypt species following fires of different intensities', *Australian Forest Research*, vol. 16, pp. 1--7.
+&mdash;&mdash;, Cheney, N. P., Walker, J. & Tunstall, B. R. 1986, 'Bark losses from two eucalypt species following fires of different intensities', *Australian Forest Research*, vol. 16, pp. 1&ndash;7.
 
-&mdash;&mdash; & Groves, R. H. 1981, 'Fire regimes in heathlands and their plant ecological effects', in *Ecosystems of the World 9B: Heathlands and Related Shrublands*, ed. R. L. Specht, Elsevier, Amsterdam, pp. 61--84.
+&mdash;&mdash; & Groves, R. H. 1981, 'Fire regimes in heathlands and their plant ecological effects', in *Ecosystems of the World 9B: Heathlands and Related Shrublands*, ed. R. L. Specht, Elsevier, Amsterdam, pp. 61&ndash;84.
 
-&mdash;&mdash;, Groves, R. H., Leigh, J. H., Price, P. C. & Wimbush, D. 1976, 'Fire in Kosciusko National Park', *CSIRO Division of Plant Industry Annual Report 1975*, pp. 38--44.
+&mdash;&mdash;, Groves, R. H., Leigh, J. H., Price, P. C. & Wimbush, D. 1976, 'Fire in Kosciusko National Park', *CSIRO Division of Plant Industry Annual Report 1975*, pp. 38&ndash;44.
 
-&mdash;&mdash; & Ingwersen, F. 1976, 'Growth of *Xanthorrhoea australis* R.Br, in relation to fire', *Journal of Applied Ecology*, vol. 13, pp. 195--203.
+&mdash;&mdash; & Ingwersen, F. 1976, 'Growth of *Xanthorrhoea australis* R.Br, in relation to fire', *Journal of Applied Ecology*, vol. 13, pp. 195&ndash;203.
 
 &mdash;&mdash;& Knight, I. K. 1991, 'Fire measurement', in *Conference of Bushfire Modelling and Fire Danger Rating Systems: Proceedings*, eds N. P. Cheney & A. M. Gill, CSIRO, Yarralumla, ACT.
 
-&mdash;&mdash; & McMahon, A. 1986, 'A post-fire chronosequence of cone, follicle and seed production in *Banksia ornata*', *Australian Journal of Botany*, vol. 34, pp. 425--33.
+&mdash;&mdash; & McMahon, A. 1986, 'A post-fire chronosequence of cone, follicle and seed production in *Banksia ornata*', *Australian Journal of Botany*, vol. 34, pp. 425&ndash;33.
 
-Grassia, A. 1980, 'Estimating bark thickness in natural stands of *Eucalyptus*', *Australian Journal of Ecology*, vol. 5, pp. 411--17.
+Grassia, A. 1980, 'Estimating bark thickness in natural stands of *Eucalyptus*', *Australian Journal of Ecology*, vol. 5, pp. 411&ndash;17.
 
-Groves, R. H. 1974, 'Growth of *Themeda australis* grassland in response to firing and mowing', *CSIRO Division of Plant Industry*, *Field Station Record*, vol. 13, pp. 1--7.
+Groves, R. H. 1974, 'Growth of *Themeda australis* grassland in response to firing and mowing', *CSIRO Division of Plant Industry*, *Field Station Record*, vol. 13, pp. 1&ndash;7.
 
-Head, R. J. & Lacey, C. 1988, 'Radiocarbon age determinations from lignotubers', *Australian Journal of Botany*, vol. 36, pp. 93--100.
+Head, R. J. & Lacey, C. 1988, 'Radiocarbon age determinations from lignotubers', *Australian Journal of Botany*, vol. 36, pp. 93&ndash;100.
 
 Ingwersen, F. 1977, Vegetation development after fire in the Jervis Bay Territory, MSc thesis, Australian National University.
 
 Jacobs, M. R. 1955, *Growth Habits of the Eucalypts*, Australia, Commonwealth Forestry and Timber Bureau, Canberra.
 
-Keeley, S. C. 1984, 'Stimulation of post-fire herb germination in the California chaparral by burned shrub stems and heated wood components', in *MEDECOS IV: Proceedings of the 4th International Conference on Mediterranean Ecosystems*, ed. B. Dell, Botany Department, University of Western Australia, Nedlands, pp. 79--80.
+Keeley, S. C. 1984, 'Stimulation of post-fire herb germination in the California chaparral by burned shrub stems and heated wood components', in *MEDECOS IV: Proceedings of the 4th International Conference on Mediterranean Ecosystems*, ed. B. Dell, Botany Department, University of Western Australia, Nedlands, pp. 79&ndash;80.
 
-Lamont, B. B. 1982, 'Biology of the mistletoe *Amyema preissii* on road verges and undisturbed vegetation', *Search*, vol. 13, pp. 87--8.
+Lamont, B. B. 1982, 'Biology of the mistletoe *Amyema preissii* on road verges and undisturbed vegetation', *Search*, vol. 13, pp. 87&ndash;8.
 
-Lee, H. M. 1984, 'The biology of *Hakea ulicina* R.Br. and *H. repullulans* H. M. Lee (Proteaceae)', *Australian Journal of Botany*, vol. 32, pp. 679--99.
+Lee, H. M. 1984, 'The biology of *Hakea ulicina* R.Br. and *H. repullulans* H. M. Lee (Proteaceae)', *Australian Journal of Botany*, vol. 32, pp. 679&ndash;99.
 
 McArthur, A. G. 1962, *Control Burning in Eucalypt Forests*, *Australia*, Commonwealth Forestry and Timber Bureau Leaflet 80.
 
@@ -345,45 +345,45 @@ McArthur, A. G. 1962, *Control Burning in Eucalypt Forests*, *Australia*, Common
 
 &mdash;&mdash; 1967, *Fire Behaviour in Eucalypt Forest*, *Australia*, Commonwealth Forestry and Timber Bureau Leaflet 107.
 
-McMahon, A. 1984a, 'The effects of time since fire on heathlands in the Little Desert, N.W. Victoria, Australia', in *MEDECOS IV: Proceedings 4th International Conference in Mediterranean Ecosystems*, ed. B. Dell, Botany Department, University of Western Australia, Nedlands, pp. 99--100.
+McMahon, A. 1984a, 'The effects of time since fire on heathlands in the Little Desert, N.W. Victoria, Australia', in *MEDECOS IV: Proceedings 4th International Conference in Mediterranean Ecosystems*, ed. B. Dell, Botany Department, University of Western Australia, Nedlands, pp. 99&ndash;100.
 
-&mdash;&mdash; 1984b, 'The effects of fire regime components on heathlands in the Little Desert, N.W. Victoria', in *MEDECOS IV: Proceedings, 4th International Conference on Mediterranean Ecosystems,* ed. B. Dell, Botany Department, University of Western Australia, Nedlands, pp. 101--2.
+&mdash;&mdash; 1984b, 'The effects of fire regime components on heathlands in the Little Desert, N.W. Victoria', in *MEDECOS IV: Proceedings, 4th International Conference on Mediterranean Ecosystems,* ed. B. Dell, Botany Department, University of Western Australia, Nedlands, pp. 101&ndash;2.
 
-&mdash;&mdash; 1987, *The Effects of the 1982--83 Bushfires on Sites of Significance,* Victorian Department of Conservation, Forests and Lands, Environmental Studies Publication Series no. 411.
+&mdash;&mdash; 1987, *The Effects of the 1982&ndash;83 Bushfires on Sites of Significance,* Victorian Department of Conservation, Forests and Lands, Environmental Studies Publication Series no. 411.
 
-Noble, I. R. 1980, 'Interactions between tussock grass *(Poa* spp.) and *Eucalyptus pauciflora* seedlings near treeline in south-eastern Australia', *Oecologia,* vol. 45, pp. 350--3.
+Noble, I. R. 1980, 'Interactions between tussock grass *(Poa* spp.) and *Eucalyptus pauciflora* seedlings near treeline in south-eastern Australia', *Oecologia,* vol. 45, pp. 350&ndash;3.
 
-&mdash;&mdash;, Bary, G. A. V. & Gill, A. M. 1980, 'McArthur's fire-danger meters expressed as equations', *Australian Journal of Ecology,* vol. 5, pp. 201--3.
+&mdash;&mdash;, Bary, G. A. V. & Gill, A. M. 1980, 'McArthur's fire-danger meters expressed as equations', *Australian Journal of Ecology,* vol. 5, pp. 201&ndash;3.
 
-Noble, J. C. 1989, 'Fire regimes and their influence on herbage and mallee coppice dynamics', in *Mediterranean Landscapes in Australia: Mallee Ecosystems and their Management,* eds J. C. Noble & R. A. Bradstock, CSIRO, Melbourne, pp. 168--80.
+Noble, J. C. 1989, 'Fire regimes and their influence on herbage and mallee coppice dynamics', in *Mediterranean Landscapes in Australia: Mallee Ecosystems and their Management,* eds J. C. Noble & R. A. Bradstock, CSIRO, Melbourne, pp. 168&ndash;80.
 
-O'Dowd, D.J.& Gill, A. M. 1984, 'Predator satiation and site alteration following fire: mass reproduction of alpine ash *(Eucalyptus delegatensis)* in southeastern Australia', *Ecology,* vol. 65, pp. 1052--66.
+O'Dowd, D.J.& Gill, A. M. 1984, 'Predator satiation and site alteration following fire: mass reproduction of alpine ash *(Eucalyptus delegatensis)* in southeastern Australia', *Ecology,* vol. 65, pp. 1052&ndash;66.
 
 Oswald, K. M. & Hutchings, P. T. 1975, 'Litter fall and litter accumulation in eucalypt forests of the Australian Capital Territory', *Proceedings of the 3rd Australian Specialist Conference on Soil Biology,* Adelaide.
 
-Pate, J. S., Casson, N. E., Rullo, J. & Kuo, J. 1985, 'Biology of fire ephemerals of the sandplains of the kwongan of south-western Australia', *Australian Journal of Plant Physiology,* vol. 12, pp. 641--55.
+Pate, J. S., Casson, N. E., Rullo, J. & Kuo, J. 1985, 'Biology of fire ephemerals of the sandplains of the kwongan of south-western Australia', *Australian Journal of Plant Physiology,* vol. 12, pp. 641&ndash;55.
 
 Pryor, L. D. & Johnson, L. A. S. 1971, *A Classification of the Eucalypts,* Australian National University, Canberra.
 
 Ross, J. H. 1990, *A Census of the Vascular Plants of Victoria,* 3rd edn, National Herbarium of Victoria, Melbourne.
 
-Simmonds, D. & Adams, R. 1986, 'Fuel dynamics in an urban fringe dry sclerophyll forest in Victoria', *Australian Forestry,* vol. 49, pp. 149--54.
+Simmonds, D. & Adams, R. 1986, 'Fuel dynamics in an urban fringe dry sclerophyll forest in Victoria', *Australian Forestry,* vol. 49, pp. 149&ndash;54.
 
-Specht, R. H. 1981, 'Responses to fires in heath-lands and related shrublands,' in *Fire and the Australian Biota,* eds A. M. Gill, R. H. Groves & I. R. Noble, Australian Academy of Science, Canberra, pp. 395--415.
+Specht, R. H. 1981, 'Responses to fires in heath-lands and related shrublands,' in *Fire and the Australian Biota,* eds A. M. Gill, R. H. Groves & I. R. Noble, Australian Academy of Science, Canberra, pp. 395&ndash;415.
 
-&mdash;&mdash;, Rayson, P. & Jackman, M. E. 1958, 'Dark Island Heath (Ninety-Mile Plain, South Australia). VI. Pyric succession: changes in composition, coverage, dry weight and mineral nutrient status', *Australian Journal of Botany,* vol. 6, pp. 59--88.
+&mdash;&mdash;, Rayson, P. & Jackman, M. E. 1958, 'Dark Island Heath (Ninety-Mile Plain, South Australia). VI. Pyric succession: changes in composition, coverage, dry weight and mineral nutrient status', *Australian Journal of Botany,* vol. 6, pp. 59&ndash;88.
 
 van Rees, H. & Walsh, N. G. 1985, *Monitoring of the Burnt Vegetation of the Buffalo Plateau,* Department of Conservation, Forests & Lands, Melbourne.
 
-Vines, R. G. 1968, 'Heat transfer through bark and the resistance of trees to fire', *Australian Journal of Botany,* vol. 16, pp. 499--514.
+Vines, R. G. 1968, 'Heat transfer through bark and the resistance of trees to fire', *Australian Journal of Botany,* vol. 16, pp. 499&ndash;514.
 
-Wallace, W. R. 1966, 'Fire in the jarrah forest environment', *Journal of Royal Society of Western Australia,* vol. 49, pp. 33--44.
+Wallace, W. R. 1966, 'Fire in the jarrah forest environment', *Journal of Royal Society of Western Australia,* vol. 49, pp. 33&ndash;44.
 
-Wark, M. C, White, M. D., Robertson, D.J. & Marriott, P. F. 1987, 'Regeneration of heath and heath woodland in the north-eastern Otway Ranges following the wildfire of February 1983', *Proceedings of the Royal Society of Victoria,* vol. 99, pp. 51--88.
+Wark, M. C, White, M. D., Robertson, D.J. & Marriott, P. F. 1987, 'Regeneration of heath and heath woodland in the north-eastern Otway Ranges following the wildfire of February 1983', *Proceedings of the Royal Society of Victoria,* vol. 99, pp. 51&ndash;88.
 
-Wellington, A. B. 1989, 'Seedling regeneration and the population dynamics of mallee eucalypts', in *Mediterranean Landscapes in Australia: Mallee Ecosystems and their Management,* eds J. C. Noble & R. A. Bradstock, CSIRO, Melbourne, pp. 155--67.
+Wellington, A. B. 1989, 'Seedling regeneration and the population dynamics of mallee eucalypts', in *Mediterranean Landscapes in Australia: Mallee Ecosystems and their Management,* eds J. C. Noble & R. A. Bradstock, CSIRO, Melbourne, pp. 155&ndash;67.
 
-&mdash;&mdash; & Noble, I. R. 1984, 'Post-fire recruitment of mallee eucalypts in Australia', in *MEDECOS IV: Proceedings 4th International Conference on Mediterranean Ecosystems,* ed B. Dell, Botany Department, University of Western Australia, Nedlands, pp. 161--2.
+&mdash;&mdash; & Noble, I. R. 1984, 'Post-fire recruitment of mallee eucalypts in Australia', in *MEDECOS IV: Proceedings 4th International Conference on Mediterranean Ecosystems,* ed B. Dell, Botany Department, University of Western Australia, Nedlands, pp. 161&ndash;2.
 
 
 

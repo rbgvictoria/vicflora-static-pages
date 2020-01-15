@@ -1,8 +1,8 @@
-&ndash;-
+---
 layout: page-toc
 title: Interplay of Victoria's flora with fire
 permalink: /interplay-with-fire
-&ndash;-
+---
 
 {% include info.html text="<b>Source:</b> Gill, A.M. (1993) Interplay of Victoria's flora with fire, in: Foreman, D.B. and N.G. Walsh (eds), <i>Flora of Victoria</i> Volume 1, pp. 212–226, Inkata Press." %}
 
@@ -40,7 +40,8 @@ It is important to realize that fires never consist completely of a uniform fron
 
 ## Effect of fire intensity on forest flora
 
-The interactions between forests and the fires they support have many facets. The forest example is used because it exhibits the extreme range of fire intensities and responses. Imagine a stringybark eucalypt forest with crowns 30 metres above ground, with tall shrubs and small trees from 5 to 10 metres above ground, and a litter layer of 20 t/ha. Under mild conditions ('low' fire danger for forests), a fire might travel slowly around on the forest floor at intensities below 250kW/m<sup>2</sup> of fire front, with flames less than 1 metre tall; maybe only 50 per cent of the fuel would be consumed, and tall shrubs would show no leaf death. Under 'high' fire danger, flames 6 metres tall may be expected, which would consume all the litter fuel and burn some of the dead outer bark on the trees (say 3 t/ha), kill all the leaves and even the shoot systems of many shrubs, while, above, the crowns of the trees may remain green. Under 'very high' to 'extreme' conditions, fire intensities could reach 100 000 kW/m<sup>2</sup>, consuming all litter (20 t/ha), bark on trees (say, 5 t/ha), dead branches and even logs on the ground (say, 20 t/ha), and the canopies of the shrubs and trees (say, 10 t/ha). Thus, as the intensity increased, the amount of 'fuel' consumed increased and the amount of damage increased. Note, however, that these scenarios are for that part of the fire burning *with* the wind. How eucalypts resist fire is considered in more detail below, when the genus as a whole is considered. It is sufficient to point out here that once the vegetation has been burnt, a recovery process begins which can be interrupted by a further fire. How severe the second fire is, and the damage sustained therefrom, then depends on:
+The interactions between forests and the fires they support have many facets. The forest example is used because it exhibits the extreme range of fire intensities and responses. Imagine a stringybark eucalypt forest with crowns 30 metres above ground, with tall shrubs and small trees from 5 to 10 metres above ground, and a litter layer of 20 t/ha. Under mild conditions ('low' fire danger for forests), a fire might travel slowly around on the forest floor at intensities below 250kW/m<sup>2</sup> of fire front, with flames less than 1 metre tall; maybe only 50 per cent of the fuel would be consumed, and tall shrubs would show no leaf death. Under 'high' fire danger, flames 6 metres tall may be expected, which would consume all the litter fuel and burn some of the dead outer bark on the trees (say 3 t/ha), kill all the leaves and even the shoot systems of many shrubs, while, above, the crowns of the trees may remain green. Under 'very high' to 'extreme' conditions, fire intensities could reach 100 000 kW/m<sup>2</sup>
+, consuming all litter (20 t/ha), bark on trees (say, 5 t/ha), dead branches and even logs on the ground (say, 20 t/ha), and the canopies of the shrubs and trees (say, 10 t/ha). Thus, as the intensity increased, the amount of 'fuel' consumed increased and the amount of damage increased. Note, however, that these scenarios are for that part of the fire burning *with* the wind. How eucalypts resist fire is considered in more detail below, when the genus as a whole is considered. It is sufficient to point out here that once the vegetation has been burnt, a recovery process begins which can be interrupted by a further fire. How severe the second fire is, and the damage sustained therefrom, then depends on:
 
 -   how much (if any) fuel remained after the first fire
 -   how much fuel has accumulated since the first fire

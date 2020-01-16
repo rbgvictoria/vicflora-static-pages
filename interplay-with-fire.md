@@ -101,7 +101,7 @@ The variety of possibilities for the effects of fire regimes on these heaths is 
 
 Some responses to fire of several plant groups prominent in the Victorian flora are given below. The importance of fire with respect to a number of rare or threatened species in the state is outlined by Scarlett and Parsons (this volume).
 
-{% include figure.html src="https://data.rbg.vic.gov.au/images/P/Library/143637?b=512" caption="Elimination of <i>Banksia ornata</i> from heathland in the Little Desert National Park by two successive fires at four- to five-year intervals." %}
+{% include figure.html src="https://data.rbg.vic.gov.au/images/P/Library/143639?b=512" caption="Elimination of <i>Banksia ornata</i> from heathland in the Little Desert National Park by two successive fires at four- to five-year intervals." %}
 
 ## Eucalypts
 
@@ -113,7 +113,7 @@ If the bark is killed, the meristematic strand is killed too, so the resistance 
 
 In trees unaffected by fire, bark thickness on the trunk is a function of the leaf area of the tree (Brack et al. 1985). Thus, large diameter trees, usually with large leaf areas, generally have relatively thick bark; small diameter trees, having relatively small leaf areas, have relatively thin bark (Gill & Ashton 1968). However, large-diameter trees with low vigour (as shown by a small leaf area) have relatively thin bark (Brack et al. 1985). Of course, bark thickness does not decrease linearly up the tree with height; for example, it shows particularly rapid change near the base (Gill & Ashton 1968; Grassia 1980).
 
-{% include figure.html src="https://data.rbg.vic.gov.au/images/P/Library/143639?b=512" caption="Epicormic shoots on <i>Eucalyptus fastigata</i>, East Gippsland." %}
+{% include figure.html src="https://data.rbg.vic.gov.au/images/P/Library/143637?b=512" caption="Epicormic shoots on <i>Eucalyptus fastigata</i>, East Gippsland." %}
 
 Bark thickness is also a function of the taxonomy of *Eucalyptus,* independent of leaf area (Brack et al. 1985). Thus, many subalpine eucalypts have a thinner bark than eucalypts of the same girth at lower altitude (Gill, Groves et al. 1976). The smooth, live, moist gum-barks are generally thinner than the coarse, fibrous, dead, stringybarks, and these two types show contrasting behaviour in the face of fire.
 

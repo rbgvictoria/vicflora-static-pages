@@ -150,7 +150,7 @@ permalink: /bioregions/
           </thead>
           <tbody>
             <tr>
-              <td colspan="1" rowspan="2"><a href="{{ '/flora/bioregions/riverina' | absolute_url }}">Riverina</a></td>
+              <td colspan="1" rowspan="2"><a href="{{ '/bioregions/riverina' | absolute_url }}">Riverina</a></td>
               <td colspan="1" rowspan="4">Riverina</td>
               <td colspan="2" rowspan="1">Victorian Riverina</td>
             </tr>

@@ -44,28 +44,28 @@ An alphabetic pick-list of definitions of botanical terms used in VicFlora is ac
 
 Indicates whether names are correctly applied, synonyms, or incorrectly applied in recent treatments.
 
-*   **Accepted:** indicates whether or not a name is accepted as a name in current use in Victoria. These are taxa which have had their taxonomy and nomenclature assessed by herbarium botanists, and have been determined as meeting the criteria for inclusion into the VicFlora.
-*   **Synonym:** Synonyms (and the type of synonym where relevant) are indicated as such and the accepted name will be provided.
-*   **Misapplication:** indicates where names have been incorrectly applied to Victorian plants.
+- **Accepted:** indicates whether or not a name is accepted as a name in current use in Victoria. These are taxa which have had their taxonomy and nomenclature assessed by herbarium botanists, and have been determined as meeting the criteria for inclusion into the VicFlora.
+- **Synonym:** Synonyms (and the type of synonym where relevant) are indicated as such and the accepted name will be provided.
+- **Misapplication:** indicates where names have been incorrectly applied to Victorian plants.
 
 ### Occurrence status
 
 Indicates whether the taxon is currently recognised as occurring in Victoria, or if it is known or believed to have become extinct since European settlement. Both native and non-native taxa are included.
 
-*   **Present:** taxa that are extant in Victoria
-*   **Endemic:** native taxa occurring only in Victoria, and which do not occur naturally outside the state
-*   **Extinct:** taxa believed to no longer occur in Victoria (See [definition](http://vicflora.rbg.vic.gov.au/static/about/#threat-status) from ‘Threat status’ section)
-*   **Excluded:** taxa where names have been either misapplied, or based on erroneous reports. 
+- **Present:** taxa that are extant in Victoria
+- **Endemic:** native taxa occurring only in Victoria, and which do not occur naturally outside the state
+- **Extinct:** taxa believed to no longer occur in Victoria (See [definition](http://vicflora.rbg.vic.gov.au/static/about/#threat-status) from ‘Threat status’ section)
+- **Excluded:** taxa where names have been either misapplied, or based on erroneous reports.
 
 ### Establishment means
 
 Establishment means refers to the ‘origin status’ of a taxon i.e. it indicates if the taxon is regarded as native or introduced in Victoria.
 
-*   **Native**: taxa that occur naturally and/or without human intervention in Victoria (See [Establishment means](http://vicflora.rbg.vic.gov.au/static/about/#establishment-means-native) for more information on this topic)
-*   **Naturalised in part(s) of the State**: includes taxa that are naturally occurring in some areas of the state but have become naturalised, often after ‘escaping’ from cultivation, elsewhere in the state.
-*   **Naturalised**: those alien plants that sustain self-replacing populations in the wild without direct intervention by people OR in spite of human intervention, by recruitment from seeds or vegetative propagules or by vegetative spread (See [Establishment means](http://vicflora.rbg.vic.gov.au/static/about/#establishment-means-naturalised) for more information on this topic)
-*   **Sparingly established**: taxa that are not fully naturalised (See [Establishment means](http://vicflora.rbg.vic.gov.au/static/about/#establishment-means-adventive) for more information on this topic)
-*   **Uncertain**: It is uncertain whether the taxon is truly native in Victoria (See [Establishment means](http://vicflora.rbg.vic.gov.au/static/about/#establishment-means-uncertain) for more information on this topic)
+- **Native**: taxa that occur naturally and/or without human intervention in Victoria (See [Establishment means](http://vicflora.rbg.vic.gov.au/static/about/#establishment-means-native) for more information on this topic)
+- **Naturalised in part(s) of the State**: includes taxa that are naturally occurring in some areas of the state but have become naturalised, often after ‘escaping’ from cultivation, elsewhere in the state.
+- **Naturalised**: those alien plants that sustain self-replacing populations in the wild without direct intervention by people OR in spite of human intervention, by recruitment from seeds or vegetative propagules or by vegetative spread (See [Establishment means](http://vicflora.rbg.vic.gov.au/static/about/#establishment-means-naturalised) for more information on this topic)
+- **Sparingly established**: taxa that are not fully naturalised (See [Establishment means](http://vicflora.rbg.vic.gov.au/static/about/#establishment-means-adventive) for more information on this topic)
+- **Uncertain**: It is uncertain whether the taxon is truly native in Victoria (See [Establishment means](http://vicflora.rbg.vic.gov.au/static/about/#establishment-means-uncertain) for more information on this topic)
 
 ## Copyright and reproduction
 
@@ -75,7 +75,7 @@ Similarly, many of the botanical images are copyright to the Royal Botanic Garde
 
 ### Third party copyright
 
-In some cases, third party photographers hold copyright to images presented in VicFlora, and they have elected to retain their reproduction rights.  Written permission from the copyright holder is required prior to copying or re-using this material.
+In some cases, third party photographers hold copyright to images presented in VicFlora, and they have elected to retain their reproduction rights. Written permission from the copyright holder is required prior to copying or re-using this material.
 
 ### Can I reproduce a botanical image?
 
@@ -85,10 +85,18 @@ For further information or for commercial enquiries, email [library@rbg.vic.gov.
 
 ## Citation
 
-The preferred format for citation of this online publication is    
+The preferred format for citation of this online publication is
 
 VicFlora (2016). Flora of Victoria, Royal Botanic Gardens Victoria, <[https://vicflora.rbg.vic.gov.au](https://vicflora.rbg.vic.gov.au)>, last accessed 07 Sep. 2016.
 
 ## Enquiries and Feedback
 
-Enquiries about copyright, and suggestions for improving VicFlora, including usability of the website, new plant records and improvements to keys or descriptions should be submitted via email to [vicflora@rbg.vic.gov.au](mailto:vicflora@rbg.vic.gov.au?subject=User%20feedback%20on%20VicFlora).
+Enquiries about copyright, and suggestions for improving VicFlora, including
+usability of the website, new plant records and improvements to keys or
+descriptions should be submitted via email to
+[vicflora@rbg.vic.gov.au](mailto:vicflora@rbg.vic.gov.au?subject=User%20feedback%20on%20VicFlora).
+
+For help with future identifications, you may wish to consider Facebook groups
+such as [Plant Identification Australia](https://www.facebook.com/groups/PlantIdentificationAustralia/about/),
+the [Australian Native Plant Enthusiasts](https://www.facebook.com/groups/675253642559682/),
+or the [Field Naturalists Club of Victoria](https://www.facebook.com/groups/191099460990243/permalink/1726547860778721/).

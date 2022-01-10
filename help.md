@@ -71,7 +71,7 @@ Establishment means refers to the ‘origin status’ of a taxon i.e. it indicat
 
 The text provided in VicFlora is copyright to the Royal Botanic Gardens Board, but is published here under a Creative Commons Attribution 4.0 international licence ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 
-Similarly, many of the botanical images are copyright to the Royal Botanic Gardens Board, but are published here under a Creative Commons Attribution Non-commercial ShareAlike 4.0 international licence ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
+Similarly, many of the botanical images are copyright to the Royal Botanic Gardens Board and other rights holders, but are published here under a Creative Commons Attribution Non-commercial ShareAlike 4.0 international licence ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
 ### Third party copyright
 
@@ -87,7 +87,7 @@ For further information or for commercial enquiries, email [library@rbg.vic.gov.
 
 The preferred format for citation of this online publication is
 
-VicFlora (2021). Flora of Victoria, Royal Botanic Gardens Victoria, <[https://vicflora.rbg.vic.gov.au](https://vicflora.rbg.vic.gov.au)>, last accessed 07 Jan. 2021.
+VicFlora (2022). Flora of Victoria, Royal Botanic Gardens Victoria, <[https://vicflora.rbg.vic.gov.au](https://vicflora.rbg.vic.gov.au)>, last accessed 07 Jan. 2022.
 
 ## Enquiries and Feedback
 

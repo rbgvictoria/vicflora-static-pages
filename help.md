@@ -87,7 +87,7 @@ For further information or for commercial enquiries, email [library@rbg.vic.gov.
 
 The preferred format for citation of this online publication is
 
-VicFlora (2016). Flora of Victoria, Royal Botanic Gardens Victoria, <[https://vicflora.rbg.vic.gov.au](https://vicflora.rbg.vic.gov.au)>, last accessed 07 Sep. 2016.
+VicFlora (2021). Flora of Victoria, Royal Botanic Gardens Victoria, <[https://vicflora.rbg.vic.gov.au](https://vicflora.rbg.vic.gov.au)>, last accessed 07 Jan. 2021.
 
 ## Enquiries and Feedback
 

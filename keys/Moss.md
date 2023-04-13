@@ -28,11 +28,11 @@ Six characters that refers to the main axis of the plant bearing the leaves.
 
 This character refers to how long the main stem of the leaf bearing plant (gametophyte) is from where it first emerges from the ground to its tip in mature gametophytes. In leaves with hairpoints the length does not include the hairpoint. Immature plants may fall within a smaller state than what they would when they are reproductively mature with capsules. To avoid misidentification using this character it is best to use this character when identifying plants with capsules or choose a large stem rather than an average size stem. 
 
-####Stem less than 5 mm
+*####Stem less than 5 mm
 
 Species that fall into this state are often tiny Earth mosses that are often only noticeable after moisture when the leaves become hydrated. 
 
-####Stem 5 mm to 2 cm
+*####Stem 5 mm to 2 cm
 
 This state mainly comprises average size moss species.
 

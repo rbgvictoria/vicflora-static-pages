@@ -6,7 +6,7 @@ permalink: /keys/Moss
 
 ## Introduction
 
-The multi-access key to the Mosses of Victoria is a key to all 419 Moss taxa that are known to occur in Victoria, both native and introduced. This is the first ever publicly available multi-access format key for a regional moss flora. It contains 60 characters to help distinguish taxa from each other with, including place of occurrence and several morphological features both vegetative and reproductive. It differs from other (dichotomous) keys provided in VicFlora by giving the user the flexibility to choose from one of the 60 characters provided rather than the user having to commit to investigate the particular features being questioned in the dichotomous keys. This has the benefit of:
+The multi-access key to the Mosses of Victoria is a key to all 421 Moss taxa that are known to occur in Victoria, both native and introduced. This is the first ever publicly available multi-access format key for a regional moss flora. It contains 61 characters to help distinguish taxa from each other with, including place of occurrence and several morphological features both vegetative and reproductive. It differs from other (dichotomous) keys provided in VicFlora by giving the user the flexibility to choose from one of the 61 characters provided rather than the user having to commit to investigate the particular features being questioned in the dichotomous keys. This has the benefit of:
 
 1.	avoiding having to answer questions relating to a feature that may not be present in the sample when being identified, 
 2.	potentially being able to identify a taxon without needing to comprehend the most technical terminology and

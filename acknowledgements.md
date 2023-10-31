@@ -12,4 +12,4 @@ Volunteers who worked on the scanning, databasing or editing of images for VicFl
 
 Financial support was provided by the Royal Botanic Gardens Victoria, the Australian Government’s Australian Biological Resources Study (ABRS) Bush Blitz Program and Rodger Elliot.
 
-Royal Botanic Gardens Victoria staff involved in VicFlora include programmer Niels Klazenga, librarian Sally Stewart, curation officers Wayne Gebert and Helen Barnes, and botanists David Cantrill, Jeff Jeanes, André Messina, Daniel Ohlsen, Roger Spencer, Val Stajsic, Frank Udovicic and Neville Walsh.
+Royal Botanic Gardens Victoria staff involved in VicFlora include programmer Niels Klazenga, librarian Sally Stewart, curation officer Helen Barnes, and botanists David Cantrill, Jeff Jeanes, André Messina, Daniel Ohlsen, Roger Spencer, Val Stajsic, Frank Udovicic and Neville Walsh.

@@ -31,19 +31,19 @@ Four characters which refer to the main axis of the plant bearing the leaves.
 
 This character refers to how the branches are arranged in a plant. It includes four states.
 
-*#### Regular, Pinnate
+#### Regular, Pinnate
 
 In this state branches are frequent from a main stem or stems, and are produced on both side of a main stem in a regular fashion.
 
-*#### Furcate, or pseudo-dichotomous
+#### Furcate, or pseudo-dichotomous
 
 In this state branching follows an evenly forked pattern, or nearly evenly forked.
 
-*#### Irregular or sparingly
+#### Irregular or sparingly
 
 In this state branching does not follow a particularly regular pattern of emergence, or is infrequent on main stems.
 
-*#### Leafy branches arising from extensive system of stolon-like stems
+#### Leafy branches arising from extensive system of stolon-like stems
 
 In this state erect or ascending branches, bearing leaves, emerge from a system of creeping stems without leaves.
 
@@ -51,35 +51,35 @@ In this state erect or ascending branches, bearing leaves, emerge from a system 
 
 This character refers to how a branch develops and the morphological consequences visible as a result and includes eight states.
 
-*#### Lateral-intercalary
+#### Lateral-intercalary
 
 In this state a branch emerges behind a stem apex on the sides in the zone where lateral leaves are attached. Emergence ruptures the stem epidermis and results in a minute unlobed collar of tissue around its perimeter at the branch base. This branching type is not associated with modified leaves.
 
-*#### Ventral-intercalary
+#### Ventral-intercalary
 
 In this state a branch emerges behind a stem apex on the underside in the zone where underleaves are attached or would be produced if the species produced underleaves. Emergence ruptures the stem epidermis and results in a minute unlobed collar of tissue around its perimeter at the branch base. This branching type is not associated with modified leaves.
 
-*#### Frullania-type 
+#### Frullania-type 
 
 In this state a branch is formed at the apex of the stem and replaces the ventral half of the lateral leaf. This results in a branch that is associated with a lateral leaf on the stem of reduced width that is dorsal to the branch. The lateral leaf of reduced width (‘half-leaf’) can be simply narrower in the case of unlobed leaves, have half or around half the number of lobes in lobed leaves or be without a lobule in the case of leaves usually with lobules. In this type of branching there is no collar of tissue at its base.
 
-*#### Microlepidozia-type
+#### Microlepidozia-type
 
 In this state a branch is formed at the apex of the stem and replaces the dorsal half of the lateral leaf. This results in a branch that is associated with a lateral leaf on the stem of reduced width that is ventral to the branch. The lateral leaf of reduced width (‘half-leaf’) can be simply narrower in the case of unlobed leaves, have half or around half the number of lobes in lobed leaves or be without a lobule in the case of leaves usually with lobules. In this type of branching there is no collar of tissue at its base.
 
-*#### Acromastigum-type
+#### Acromastigum-type
 
 In this state a branch is formed at the apex of the stem and replaces half of the underleaf. This results in a branch that emerges beside a narrower underleaf and in many cases an underleaf with half or around half the number of lobes. In this type of branching there is no collar of tissue at its base.
 
-*#### Radula-type
+#### Radula-type
 
 In this state a branch is formed at the apex of the stem but does not replace part of a leaf. This results in a branch with only fully formed leaves around it and that lacks a collar of tissue at its base. 
 
-*#### Lejeunea-type
+#### Lejeunea-type
 
 In this state a branch emerges behind a stem apex on the sides in the zone where lateral leaves are attached. Emergence ruptures the stem epidermis and results in a lobed collar of tissue around its perimeter at the branch base. This branching type is not associated with modified leaves.
 
-*#### Zoopsis-type
+#### Zoopsis-type
 
 In this state a branch is formed at the apex of the stem and completely replaces a leaf. In this type of branching there is no collar of tissue at its base.
 
@@ -87,11 +87,11 @@ In this state a branch is formed at the apex of the stem and completely replaces
 
 This character refers to the roughness of the stem surface and includes two states.
 
-*#### Smooth or papillose
+#### Smooth or papillose
 
 In this state the stem is completely smooth or has minute bumps only visible under compound microscope.
 
-*#### Hispid
+#### Hispid
 
 In this state the stem has obvious spicule-like protuberances.
 
@@ -111,27 +111,27 @@ This character refers to the distance from the point where the lateral leaf is a
 
 This character refers to the shape of the lateral leaves (both stem or branch leaves) when flattened and includes ten states.
 
-*#### Undivided, rounded to truncate
+#### Undivided, rounded to truncate
 
 This state refers to intact, undivided lateral leaves which are circular, oblong or squarrose/rectangular in shape. The apex is rounded or flat, not shaped into a point.
 
-*#### Undivided, pointed
+#### Undivided, pointed
 
 This state refers to intact, undivided lateral leaves which taper off into a point at their apex.
 
-*#### Bifid
+#### Bifid
 
 This state refers to lateral leaves which are split at the apex into two main lobes. 
 
-*#### 3-fid
+#### 3-fid
 
 This state refers to lateral leaves which are split at the apex into three main lobes. 
 
-*#### 4-fid
+#### 4-fid
 
 This state refers to lateral leaves which are split at the apex into four main lobes. Segments that are toothed but smaller than other lobes have been referred to as laciniae. In this key they are also regarded as lobes.
 
-*#### More than 4-fid
+#### More than 4-fid
 
 This state refers to lateral leaves which are split at the apex into more than four main lobes. Segments that are toothed but smaller than other lobes have been referred to as laciniae. In this key they are also regarded as lobes.
 
@@ -139,15 +139,15 @@ This state refers to lateral leaves which are split at the apex into more than f
 
 This character refers to how the angle that the leaves are attached to the stem. It has four states.
 
-*#### Succubous
+#### Succubous
 
 In this state the leaves are inserted at an angle on the stem so that the margin facing the stem apex (acroscopic margin) is attached toward the ventral side of the stem and the margin facing the stem base (basiscopic margin) is attached toward the dorsal side of the stem. When the leaves overlap, this results in the bottom (basiscopic) margins of one leaf overlapping the top (acroscopic) margin of the leaf below it. This creates a shingle-like effect where water would run down and off the leaves, like the tiles of a roof.
 
-*#### Incubous
+#### Incubous
 
 In this state the leaves are inserted at an angle on the stem so that the margin facing the stem apex (acroscopic margin) is attached toward the dorsal side of the stem and the margin facing the stem base (basiscopic margin) is attached toward the ventral side of the stem. When the leaves overlap, this results in the bottom (basiscopic) margins of one leaf being overlapped by the top (acroscopic) margin of the leaf below it. This creates a shingle-like effect where water would run down into the leaves if trickling from apex to base.
 
-*#### Transverse
+#### Transverse
 
 In this state leaves are inserted at right angles to the axis of the main stem. 
 
@@ -155,15 +155,15 @@ In this state leaves are inserted at right angles to the axis of the main stem.
 
 This character refers to the dentition along the margin attached closest to the stem apex or in the case of transverse leaves the dorsal margin. It includes three states.  
 
-*#### Entire
+#### Entire
 
 In this state the edge of the leaf is a smooth line without teeth or the margin is rough due to papillae on the cell surfaces.
 
-*#### Ciliate
+#### Ciliate
 
 In this state the edge of the leaf has thin hair-like projections, often one cell thick either at their base or along the majority of their length. These can be long or short.
 
-*#### Dentate
+#### Dentate
 
 In this state the edge of the leaf is jagged with cells forming triangular tooth-like projections.
 
@@ -179,15 +179,15 @@ This character refers to how many teeth or cilia or scattered along the entire l
 
 This character refers to whether the surface of the lateral leaves facing upwards or toward the stem apex is textured or not and includes three states.
 
-*#### Smooth
+#### Smooth
 
 In this state the adaxial surface of the lateral leaves are devoid of any ornamentation.
 
-*#### Papillose, striolate or verruculose
+#### Papillose, striolate or verruculose
 
 In this state the adaxial surface of the lateral leaves have bumps, grooves or warts.
 
-*#### Cellular protuberances
+#### Cellular protuberances
 
 In this state the adaxial surface of the lateral leaves have cellular protuberances.
 
@@ -207,11 +207,11 @@ This character refers to the size of the largest lobe relative to the overall le
 
 This character refers to the shape of the end of the largest lateral leaf lobe and includes two states.
 
-*#### Acute
+#### Acute
 
 In this state the leaf lobe comes to a point.
 
-*#### Rounded
+#### Rounded
 
 In this state the end of the lobe is rounded, and in some cases the largest lobe is circular.
 
@@ -219,11 +219,11 @@ In this state the end of the lobe is rounded, and in some cases the largest lobe
 
 This character refers to how many cells wide most of the largest lateral leaf lobes are and comprises two states.
 
-*#### Mostly uniseriate
+#### Mostly uniseriate
 
 In this state the largest lateral leaf lobe comprises a single row of cells for most of its length.
 
-*#### Most of length at least two cells wide
+#### Most of length at least two cells wide
 
 In this state the largest lateral leaf lobe is at least two cells for most of its length. In many cases it will be far more than two cells wide.
 
@@ -231,15 +231,15 @@ In this state the largest lateral leaf lobe is at least two cells for most of it
 
 This character refers to how the lobes are oriented relative to each other and to the unlobed (disc) section of the lateral leaf. It includes three states.
 
-*#### Not folded
+#### Not folded
 
 In this state all the lobes are in the same plane as each other and the disc or the lobes form a continuously curved surface with leaf disc. 
 
-*#### Folded with abaxial lobule
+#### Folded with abaxial lobule
 
 In this state the base of the smaller lobe folds and lies on the ventral or abaxial side of the main lobe forming a lobule.
 
-*#### Folded with adaxial lobule
+#### Folded with adaxial lobule
 
 In this state the base of the smaller lobe folds and lies on the dorsal or adaxial side of the main lobe forming a lobule.
 
@@ -247,23 +247,23 @@ In this state the base of the smaller lobe folds and lies on the dorsal or adaxi
 
 This character refers to the 3-d structure and shape of the lobule and includes five states.
 
-*#### Flat
+#### Flat
 
 In this state the lobule does not form a sac or is not inflated in any part.
 
-*#### Inflated or saccate, fused along basal margin with main lobe
+#### Inflated or saccate, fused along basal margin with main lobe
 
 In this state the lobule is broadly fused with the main lobe along its basal margin and is inflated at least near this line of fusion but can by completed saccate in some cases. 
 
-*#### Saccate, separate from main lobe and clavate
+#### Saccate, separate from main lobe and clavate
 
 In this state the lobule is saccate, forming a water-sac, and is only scarcely attached to the main lobe, if at all, and so appear quite separate from the main lobe. Lobules in this state are club-shaped, and are taller than wide (i.e. the axis of the lobule more or less parallel with the stem or branch is greater in size than the axis of the lobule that is approximately perpendicular to the stem or branch).
 
-*#### Saccate, separate from main lobe and falcate or beaked
+#### Saccate, separate from main lobe and falcate or beaked
 
 In this state the lobule is saccate, forming a water-sac, and is only scarcely attached to the main lobe, if at all, and so appear quite separate from the main lobe. Lobules in this state are sickle shaped or look like a parrot’s beak, and are wider than tall (i.e. the axis of the lobule more or less perpendicular with the stem or branch is greater in size than the axis of the lobule that is approximately parallel to the stem or branch).
 
-*#### Saccate, separate from main lobe and galeate, similar height as width
+#### Saccate, separate from main lobe and galeate, similar height as width
 
 In this state the lobule is saccate, forming a water-sac, and is only scarcely attached to the main lobe, if at all, and so appear quite separate from the main lobe. Lobules in this state are helmet shaped, and a similar height and width.
 
@@ -275,15 +275,15 @@ This character refers to the number or teeth or cilia along the margins of the l
 
 This character refers to how many cells long the longest tooth on the margins of the lobule are. It includes three states.
 
-*#### All unicellular
+#### All unicellular
 
 In this state lobule will only ever produce teeth that are one cell long.
 
-*#### Two cells long on some lobules
+#### Two cells long on some lobules
 
 In this state on an average stem there will at least one lobule that will have teeth two cells long. There will also likely be lobules on the same stem that have teeth formed by only a single cell.
 
-*#### Three or more cells long on some lobules
+#### Three or more cells long on some lobules
 
 In this state on an average stem there will at least one lobule that will have teeth three cells long. 
 
@@ -303,27 +303,27 @@ This character refers to the overall size of the underleaf in relation to the la
 
 This character refers to the shape of the underleaf when flattened and includes six states.
 
-*#### Undivided and rounded
+#### Undivided and rounded
 
 This state refers to undivided underleaves which are circular, oblong or rectangular in shape. The apex is rounded and does not come to a point.
 
-*#### Undivided and pointed
+#### Undivided and pointed
 
 This state refers to undivided underleaves which taper into a point at their apex. Leaves in this state are often lanceolate or triangular.
 
-*#### Bifid
+#### Bifid
 
 This state refers to underleaves which are split at the apex into two main lobes. 
 
-*#### 3-fid
+#### 3-fid
 
 This state refers to underleaves which are split at the apex into three main lobes.
 
-*#### 4-fid
+#### 4-fid
 
 This state refers to underleaves which are split at the apex into four main lobes. Segments that are toothed but smaller than other lobes have been referred to as laciniae. In this key they are also regarded as lobes.
 
-*#### More than 4-fid
+#### More than 4-fid
 
 This state refers to underleaves which are split at the apex into more than four main lobes. Segments that are toothed but smaller than other lobes have been referred to as laciniae. In this key they are also regarded as lobes.
 
@@ -339,15 +339,15 @@ This character refers to the length of the lobe relative to the overall length o
 
 This character refers to whether the underleaves are connected at their base to the lateral leaves or not. It contains three states.
 
-*#### Free of lateral leaves
+#### Free of lateral leaves
 
 This state describes underleaves which are only connected to the stem of the plant, and do not connect to the lateral leaves.
 
-*#### Bilaterally united to lateral leaves
+#### Bilaterally united to lateral leaves
 
 This state describes underleaves that are connected to the main stem and both of the lateral leaves closest to it at their base. This connection may only be by a single row of cells.
 
-*#### Unilaterally united to a lateral leaf
+#### Unilaterally united to a lateral leaf
 
 This state describes underleaves which are connected to the main stem and only one nearby lateral leaf at their base. This connection may only be by a single row of cells.
 
@@ -355,11 +355,11 @@ This state describes underleaves which are connected to the main stem and only o
 
 This character refers to how many underleaves there are relative to the number of lateral leaves and comprises two states.
 
-*#### One underleaf for every two or more lateral leaves
+#### One underleaf for every two or more lateral leaves
 
 In this state a pair of lateral leaves are separated by a single underleaf. In some species that comply with tis state the underleaves are sporadically produced and may be absent between some lateral leaves.
 
-*#### One underleaf for every leaf
+#### One underleaf for every leaf
 
 In this state near the base of each lateral leaf there is an underleaf. In Victoria this state exists only in Colura pulcherrima and Diplasiolejeunea plicatiloba.
 
@@ -371,11 +371,11 @@ A single character referring to a separate lobe that occurs in few species that 
 
 This character refers to the presence and size of a stylus.
 
-*#### Conspicuous stylus present
+#### Conspicuous stylus present
 
 In this state the stylus is usually triangular in shape and is composed of more than eight cells make it reasonably noticeable with a compound microscope.
 
-*#### Stylus absent or inconspicuous
+#### Stylus absent or inconspicuous
 
 In this state the stylus is completely absent or if it is present, it is filiform and composed of less than eight cells.
 
@@ -387,11 +387,11 @@ A set of ten characters relating to the cells of lateral leaves. In species with
 
 This character contains two states which refer to the presence or absence of prominent triangle-shaped wall thickenings at the junction where three or more cells meet.
 
-*#### Massive, often coalescing
+#### Massive, often coalescing
 
 In this state the trigones are large and obvious and often adjacent trigones fuse together (coalesce), but if not coalescing are at least wider that the non-thickened cell wall between them. The result of these large trigones is that the area of trigones can approach or be a similar area of the cell lumens (cavities) in a leaf.
 
-*#### Small or absent
+#### Small or absent
 
 In this state the cell walls do not become thickened in the corners and trigones seem to be absent or if the trigones are present, then they are small and do not contribute a significant proportion of the length of the cell wall between the corners (i.e. the intervening non-thickened section of the cell wall is longer than the width of the trigone) and they do not contribute a significant proportion of the leaf area.
 
@@ -403,11 +403,11 @@ This character refers to the presence or absence of a distinct strip of elongate
 
 This character refers to the relative thickness of the cell walls and contains two states.
 
-*#### Thick
+#### Thick
 
 In this state the cell wall is thick enough that if you were to illustrate the cells it would be more accurate at around x100 magnification to represent them as two lines to define the edges of the lumen and cell walls.
 
-*#### Thin
+#### Thin
 
 In this state the cell wall apart from any trigones is thin such that if you were to illustrate the cells it would be more accurate at around x100 magnification to represent them as a single line.
 
@@ -439,11 +439,11 @@ This character refers to whether the oil bodies are distinctly dark and opaque o
 
 This character refers to the appearance of the oil body and includes two states.
 
-*#### Smooth, homogenous
+#### Smooth, homogenous
 
 In this state the oil body does not have any surface ornamentation and it is not composed of granules or globules.
 
-*#### Granular or segmented
+#### Granular or segmented
 
 In this state the oil body can have a granular surface and can be composed of granules or globules and resemble a compact cluster of grapes (i.e. botryoidal).
 
@@ -455,23 +455,23 @@ A single character about the hair-like structures that provide anchorage.
 
 This character refers to the presence and location of rhizoids. When assessing this character, rhizoids will most likely be produced where the stem is in contact with substrate so it is in these sections of stem that the rhizoids should be searched for.
 
-*#### Base of underleaf, or where underleaf would be if absent
+#### Base of underleaf, or where underleaf would be if absent
 
 In this state the rhizoids are produced in a tight clump immediately below or on the base of the underleaf or in the position on the stem where an underleaf would be expected to be if the species had underleaves.
 
-*#### Base of lateral leaf
+#### Base of lateral leaf
 
 In this state the rhizoids are produced in a tight clump at the base of a lateral leaf.
 
-*#### Lobule
+#### Lobule
 
 In this state the rhizoids are produced in a clump from the outer surface of the lobule. 
 
-*#### Scattered along stem
+#### Scattered along stem
 
 In this state rhizoids are not clearly aggregated into clusters but are instead scattered, either sparsely or densely, along the stem.
 
-*#### Excluded from leafy stems; restricted to stolons
+#### Excluded from leafy stems; restricted to stolons
 
 Species that have stems differentiated into creeping leafless stolons and erect or ascending leafy axes will belong to this state. In this state the leafy stems are not in contact with the substrate, whereas the leafless stolons are and so it is here that the rhizoids are produced.
 
@@ -483,19 +483,19 @@ A set of eleven characters relating to the reproductive structures and sexuality
 
 This character refers to where on the plant the female reproductive structures are produced and includes four characters. The female part of the plant is easily identified from where the sporophyte (capsule and the seta) is when sporophytes are visible. Often these wont be present but structures associated with the sporophyte such as perianths, bracts, marsupia or coelocaules (see female structures present character) may be and can be used to define where the female structures are produced.
 
-*#### Terminal on long leafy axis
+#### Terminal on long leafy axis
 
 In this state the female structures are at the end the stem or a branch with several normal leaves. When the branch or stem produces a sporophyte afterwards it can branch below it eventually resulting in the female structures appearing as if it was produced on the side of the stem.
 
-*#### On short lateral branch
+#### On short lateral branch
 
 In this state the female structures are produced on very short branches without normal leaves but with the structures associated with the sporophyte such as those given as states for the female structures present character. These short branches emerge from the main stem along the sides in the zone where the leaves are attached. The short size of the branch can give an initial impression that the sporophyte is produced directly on the side of the main stem.
 
-*#### On short ventral branch
+#### On short ventral branch
 
 In this state the female structures are produced on very short branches without normal leaves but with the structures associated with the sporophyte such as those given as states for the female structures present character. These short branches emerge from the main stem on the ventral surface in the zone where the underleaves are produced or would be expected to be produced if absent. The short size of the branch can give an initial impression that the sporophyte is produced directly on the main stem.
 
-*#### On short basal branch
+#### On short basal branch
 
 In this state the female structures are produced on very short branches without normal leaves but with the structures associated with the sporophyte such as those given as states for the female structures present character. These short branches emerge from the base of the plant, often from leafless stolons or the leafless base of leafy stems. 
 
@@ -507,23 +507,23 @@ This character refers to whether or not the modified rank of leaves equivalent t
 
 This character refers to the type of structure that forms the main role in surrounding and protecting the developing sporophyte and includes five states.
 
-*#### Bracts (and sometimes bracteoles) only
+#### Bracts (and sometimes bracteoles) only
 
 In this state the only well-developed structure that surrounds the developing sporophyte are bracts and sometimes bracteoles. Bracts are modified leaves that are usually a different size and have a different degree of dissection than the normal vegetative leaves, but will otherwise look similar to the leaves.
 
-*#### Perianth
+#### Perianth
 
 In this state the developing sporophyte is surrounded by a protective leaf-like envelope, the perianth. The perianth are similar to bracts but the perianth differs in being a more fused structure rather than being composed of separate parts like individual bracts.  
 
-*#### Coelocaule
+#### Coelocaule
 
 In this state the stem below the sporophyte enlarges and swells around the sporophyte so that the sporophyte is embedded into a hollow enlarged stem. Coelocaules follow the same axis of growth as the stem below and bear bracts on their surface because they are derived from stem tissue. The occurrence of bracts and the general fleshy and non-herbaceous appearance of coelocaules helps them to be distinguished from perianths.
 
-*#### Marsupium 
+#### Marsupium 
 
 In this state the stem becomes swollen near the developing sporophyte, envelops it and grows downwards, usually perpendicular to the axis of the rest of the stem. Its surface is often covered in rhizoids. The fleshy texture and direction of growth allows marsupia to be distinguished from other reproductive and when they are covered with rhizoids are unmistakable.
 
-*#### Shoot calyptra or perigynium 
+#### Shoot calyptra or perigynium 
 
 In this state the developing sporophyte is surrounded by tissue derived from the female organ that produces the eggs (archegonium) and cells immediately surrounding the archegonium. They are fleshy, often tubular, continue to axis of growth of the stem, but do not bear bracts over their surface like in coelocaules. They often bear vestigial perianths at their apex.
 
@@ -535,23 +535,23 @@ This character applies to species that produce a perianth (see Female structures
 
 This character refers to how the perianth (see Female structures present character) would look if it was cut perpendicular to its axis of growth near the apex of the perianth and the cut is viewed looking down. This character applies only to species that produce perianths and contains five states.
 
-*#### Terete
+#### Terete
 
 In this state the cross section does not have clear angles but is instead more or less circular.
 
-*#### Bilabiate
+#### Bilabiate
 
 In this state the perianth has two ridges or wings and two intervening surfaces. This results in a cross section that has two angles and curves connecting them.
 
-*#### Trigonous
+#### Trigonous
 
 In this state the perianth has three ridges or wings and intervening surfaces. This results in a cross section that has three angles and edges or curves connecting them, like a triangle.
 
-*#### 4 or 5-plicate
+#### 4 or 5-plicate
 
 In this state the perianth has four or five folds, ridges or wings at least near the apex of the perianth. The perianth may be terete toward its base.
 
-*#### 6- or more plicate
+#### 6- or more plicate
 
 In this state the perianth has six or more folds, ridges or wings at least near the apex of the perianth. The perianth may be terete toward its base.
 
@@ -571,11 +571,11 @@ This character refers to the number of male organs (antheridia) produced on each
 
 This character refers to which sexes can be present in an individual plant and consists of two states.
 
-*#### Dioicous
+#### Dioicous
 
 In this state male organs are produced on completely separate plants to the plants that produce female organs.
 
-*#### Monoicous
+#### Monoicous
 
 In this state male and female organs are produced on the same plant.
 

@@ -59,27 +59,27 @@ In this state a branch emerges behind a stem apex on the sides in the zone where
 
 In this state a branch emerges behind a stem apex on the underside in the zone where underleaves are attached or would be produced if the species produced underleaves. Emergence ruptures the stem epidermis and results in a minute unlobed collar of tissue around its perimeter at the branch base. This branching type is not associated with modified leaves.
 
-#### Frullania-type 
+#### _Frullania_-type 
 
 In this state a branch is formed at the apex of the stem and replaces the ventral half of the lateral leaf. This results in a branch that is associated with a lateral leaf on the stem of reduced width that is dorsal to the branch. The lateral leaf of reduced width (‘half-leaf’) can be simply narrower in the case of unlobed leaves, have half or around half the number of lobes in lobed leaves or be without a lobule in the case of leaves usually with lobules. In this type of branching there is no collar of tissue at its base.
 
-#### Microlepidozia-type
+#### _Microlepidozia_-type
 
 In this state a branch is formed at the apex of the stem and replaces the dorsal half of the lateral leaf. This results in a branch that is associated with a lateral leaf on the stem of reduced width that is ventral to the branch. The lateral leaf of reduced width (‘half-leaf’) can be simply narrower in the case of unlobed leaves, have half or around half the number of lobes in lobed leaves or be without a lobule in the case of leaves usually with lobules. In this type of branching there is no collar of tissue at its base.
 
-#### Acromastigum-type
+#### _Acromastigum_-type
 
 In this state a branch is formed at the apex of the stem and replaces half of the underleaf. This results in a branch that emerges beside a narrower underleaf and in many cases an underleaf with half or around half the number of lobes. In this type of branching there is no collar of tissue at its base.
 
-#### Radula-type
+#### _Radula_-type
 
 In this state a branch is formed at the apex of the stem but does not replace part of a leaf. This results in a branch with only fully formed leaves around it and that lacks a collar of tissue at its base. 
 
-#### Lejeunea-type
+#### _Lejeunea_-type
 
 In this state a branch emerges behind a stem apex on the sides in the zone where lateral leaves are attached. Emergence ruptures the stem epidermis and results in a lobed collar of tissue around its perimeter at the branch base. This branching type is not associated with modified leaves.
 
-#### Zoopsis-type
+#### _Zoopsis_-type
 
 In this state a branch is formed at the apex of the stem and completely replaces a leaf. In this type of branching there is no collar of tissue at its base.
 

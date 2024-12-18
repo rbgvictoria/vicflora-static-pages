@@ -35,11 +35,11 @@ Four characters which refer to the main axis of the plant bearing the leaves.
 
 This character refers to how the branches are arranged in a plant. It includes four states.
 
-#### Regular, Pinnate
+#### Regular and pinnate
 
 In this state branches are frequent from a main stem or stems, and are produced on both side of a main stem in a regular fashion.
 
-#### Furcate, or pseudo-dichotomous
+#### Furcate or pseudo-dichotomous
 
 In this state branching follows an evenly forked pattern, or nearly evenly forked.
 
@@ -47,7 +47,7 @@ In this state branching follows an evenly forked pattern, or nearly evenly forke
 
 In this state branching does not follow a particularly regular pattern of emergence, or is infrequent on main stems.
 
-#### Leafy branches arising from extensive system of stolon-like stems
+#### Leafy branches arising from stolons
 
 In this state erect or ascending branches, bearing leaves, emerge from a system of creeping stems without leaves.
 
@@ -107,7 +107,7 @@ This character refers to whether or not the stem has leaf-like appendages, much 
 
 A set of 16 characters that refer to the main broadened photosynthetic segment of the plant, the lateral-leaves that are attached along the sides of the stem and branches. 
 
-### Size
+### Length
 
 This character refers to the distance from the point where the lateral leaf is attached to the stem to the leaf tip, or tip of the longest lobe (both stem or branch leaves). Lateral leaves from mature branches or stems away from reproductive structures should be used. Often the lateral leaves at the shoot apex and base of a sporophyte (bracts) differ in size from the typical leaves and should be avoided. Instead focus on using lateral leaves midway along an elongate stem or branch. Length is divided into five ranges.
 
@@ -173,7 +173,7 @@ In this state the edge of the leaf is jagged with cells forming triangular tooth
 
 ### Basiscopic margin
 
-This character refers to the dentition along the margin attached closest to the stem base or in the case of transverse leaves the ventral margin. It includes the three states given for the previous character (see there).  
+This character refers to the dentition along the margin attached closest to the stem base or in the case of transverse leaves the ventral margin. It includes the three states given for the previous character (see there). 
 
 ### Total number of marginal teeth or cilia*
 
@@ -203,7 +203,7 @@ This character refers to whether the surface of the lateral leaves facing downwa
 
 This character refers to whether or not there is a wing of tissue that is attached to the surface of the lateral leaf, appearing like a fin.
 
-### Lobe size
+### Lobe length
 
 This character refers to the size of the largest lobe relative to the overall length of the leaf and includes two states.
 
@@ -259,7 +259,7 @@ In this state the lobule does not form a sac or is not inflated in any part.
 
 In this state the lobule is broadly fused with the main lobe along its basal margin and is inflated at least near this line of fusion but can by completed saccate in some cases. 
 
-#### Saccate, separate from main lobe and clavate
+#### Saccate, separate from main lobe and clavate, taller than wide
 
 In this state the lobule is saccate, forming a water-sac, and is only scarcely attached to the main lobe, if at all, and so appear quite separate from the main lobe. Lobules in this state are club-shaped, and are taller than wide (i.e. the axis of the lobule more or less parallel with the stem or branch is greater in size than the axis of the lobule that is approximately perpendicular to the stem or branch).
 
@@ -303,8 +303,7 @@ This character refers to whether or not the plant has underleaves.
 
 This character refers to the overall size of the underleaf in relation to the lateral leaves. It includes four states.
 
-### Shape
-
+### Form
 This character refers to the shape of the underleaf when flattened and includes six states.
 
 #### Undivided and rounded
@@ -407,13 +406,13 @@ This character refers to the presence or absence of a distinct strip of elongate
 
 This character refers to the relative thickness of the cell walls and contains two states.
 
-#### Thick
-
-In this state the cell wall is thick enough that if you were to illustrate the cells it would be more accurate at around x100 magnification to represent them as two lines to define the edges of the lumen and cell walls.
-
 #### Thin
 
 In this state the cell wall apart from any trigones is thin such that if you were to illustrate the cells it would be more accurate at around x100 magnification to represent them as a single line.
+
+#### Thick
+
+In this state the cell wall is thick enough that if you were to illustrate the cells it would be more accurate at around x100 magnification to represent them as two lines to define the edges of the lumen and cell walls.
 
 ### Uniformity*
 
@@ -459,7 +458,7 @@ A single character about the hair-like structures that provide anchorage.
 
 This character refers to the presence and location of rhizoids. When assessing this character, rhizoids will most likely be produced where the stem is in contact with substrate so it is in these sections of stem that the rhizoids should be searched for.
 
-#### Base of underleaf, or where underleaf would be if absent
+#### Base of underleaf or where underleaf would be if absent
 
 In this state the rhizoids are produced in a tight clump immediately below or on the base of the underleaf or in the position on the stem where an underleaf would be expected to be if the species had underleaves.
 
@@ -475,7 +474,7 @@ In this state the rhizoids are produced in a clump from the outer surface of the
 
 In this state rhizoids are not clearly aggregated into clusters but are instead scattered, either sparsely or densely, along the stem.
 
-#### Excluded from leafy stems; restricted to stolons
+#### Excluded from leafy stems and restricted to stolons
 
 Species that have stems differentiated into creeping leafless stolons and erect or ascending leafy axes will belong to this state. In this state the leafy stems are not in contact with the substrate, whereas the leafless stolons are and so it is here that the rhizoids are produced.
 

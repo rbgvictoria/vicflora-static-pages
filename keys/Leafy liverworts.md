@@ -49,7 +49,7 @@ In this state branching does not follow a particularly regular pattern of emerge
 
 #### Leafy branches arising from stolons
 
-In this state erect or ascending branches, bearing leaves, emerge from a system of creeping stems without leaves.
+In this state erect or ascending branches, bearing leaves, emerge from a system of creeping stems without normal leaves.
 
 ### Branching type
 

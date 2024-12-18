@@ -249,7 +249,7 @@ In this state the base of the smaller lobe folds and lies on the dorsal or adaxi
 
 ### Lobule form
 
-This character refers to the 3-d structure and shape of the lobule and includes five states.
+This character refers to the 3-d structure and shape of the lobule and includes five states. It is only applicable to species with lobules (lobes that are folded to rest dorsally/adaxially or ventrally/abaxially over the main lobe).
 
 #### Flat
 
@@ -273,11 +273,11 @@ In this state the lobule is saccate, forming a water-sac, and is only scarcely a
 
 ### Lobule margins*
 
-This character refers to the number or teeth or cilia along the margins of the lobules. It contains six states.
+This character refers to the number or teeth or cilia along the margins of the lobules. It contains six states. It is only applicable to species with lobules (lobes that are folded to rest dorsally/adaxially or ventrally/abaxially over the main lobe).
 
 ### Lobule tooth length*
 
-This character refers to how many cells long the longest tooth on the margins of the lobule are. It includes three states.
+This character refers to how many cells long the longest tooth on the margins of the lobule are. It includes three states. It is only applicable to species with lobules (lobes that are folded to rest dorsally/adaxially or ventrally/abaxially over the main lobe).
 
 #### All unicellular
 

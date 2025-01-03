@@ -418,7 +418,7 @@ In this state the cell wall is thick enough that if you were to illustrate the c
 
 This character refers to how the dimensions of the laminal cells varies throughout the lateral leaf. When assessing this character care needs to be taken to cut or brake leaves off at the attachment to the stem rather than tearing the leaves off. If leaves are carelessly torn off some of the basal rows of cells may remain on the stem which is an issue for the states in which the basal cells rows differ from those elsewhere in the leaf. This character comprises five states.
 
-### Median cell diameter*
+### Mid-leaf cell diameter*
 
 This character refers to the distance across the lumen of cells in the middle of the leaf for unlobed leaves or in the middle of the disc for lobed leaves and includes three range states. Measure the axis roughly parallel with the stem. 
 

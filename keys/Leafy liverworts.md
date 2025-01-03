@@ -422,7 +422,7 @@ This character refers to how the dimensions of the laminal cells varies througho
 
 This character refers to the distance across the lumen of cells in the middle of the leaf for unlobed leaves or in the middle of the disc for lobed leaves and includes three range states. Measure the axis roughly parallel with the stem. 
 
-### Presence of intermediate thickenings in cell wall of midleaf*
+### Presence of intermediate thickenings in cell wall of mid-leaf*
 
 This character refers to whether or not there is a swelling or circular to elliptic node in the cell wall around half way between the corners of the cells.
 

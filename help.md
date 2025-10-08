@@ -81,7 +81,7 @@ In some cases, third party photographers hold copyright to images presented in V
 
 Check the licence! Click any thumbnail image to view the image at larger size, and the associated publication details. All images are accompanied by the name of the species, the artist or photographer, and the licence under which it has been published. The licence determines if you can reproduce the image for your purposes or not. Be sure to respect copyright notices, and follow the terms of the licences.
 
-For further information or for commercial enquiries, email [library@rbg.vic.gov.au](mailto:library@rbg.vic.gov.au).
+For further information or for commercial enquiries, email [vicflora@rbg.vic.gov.au](mailto:vicflora@rbg.vic.gov.au).
 
 ## Citation
 
